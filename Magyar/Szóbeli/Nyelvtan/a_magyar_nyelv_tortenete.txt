@@ -1,0 +1,182 @@
+A magyar nyelv eredete, finnugor rokonság bemutatása
+    - nyelvrokonság: egy nyelvcsaládba tartozó nyelvek közös alapnyelvből származnak
+    - alapnyelvből önálló nyelvek fejlődtek: ősi vonásokat megőrzik
+    - nyelvcsalád: egy alapnyelvből kifejlődött utónyelvek
+    - őshaza: az a terület, ahol az alapnyelvet beszélő közösség élt
+    - nyelvcsaládok: indoeurópai, uráli, altáji, ...
+    - magyar nyelv: uráli -> finnugor
+    - uráli: i.e. 3000
+        - finnugor: i.e. 2000
+            - ugor: i.e. 500
+                - ősmagyar
+                    - magyar
+                - ősobi-ugor
+                    - manyi (vogul)
+                    - hanti (osztják)
+            - finn-permi: i.e. 1500
+                - permi: i.sz. 800
+                    - komi
+                    - udmurt
+                - finn-volgai: i.e. 1000
+                    - mari
+                    - erza
+                    - számi
+                    - balti-finn: i.sz. 100
+                        - finn
+                        - észt
+                        - vót
+                        - liv
+                        - karjalai
+                        - izsór
+                        - vepsze
+        - szamojéd: i.e. 100
+            - északi-szamojéd
+                - nyenyec
+                - enyec
+                - nganaszan
+            - déli-szamojéd
+                - szölkup
+                - szajáni szamojéd
+    - nyelvrokonság kutatás
+        - héber: 17. század, Geleji Katona István, Komáromi Csipkés György
+        - Sajnovics János, Gyarmathi Sámuel, Reguly Antal: finnugor eredet bizonyítása összehasonlítás módszerével
+        - ugor-török háború: 19. század
+            - Vámbéry Ármin: magyar-török nyelvrokonság, török jövevényszavak
+            - Budenz József: finnugor nyelvrokonság
+        - magyar-japán, magyar-német, magyar-angol: 2.WW idején
+        - sumér-magyar: 1950-es évek, közös szavak
+
+
+A nyelvújítás mibenléte, történelmi, művelődéstörténeti háttere és hatása
+    - nyelvművelők (költők, írók, nyelvészek) szándékos beavatkozása a nyelvbe
+    - nyelvújítás: 1790-1820 között
+        - kezdet: Bessenyei György fellépése
+        - vége: "Magyar Nyelvőr" folyóirat
+    - cél:
+        - szókincs bővítése
+        - idegen szavak magyarra fordítása
+        - stílusűjítás
+        - európai kultúra és tudomány kifejezhető legyen magyar nyelven
+    - eredmény: egységes magyar irodalmi nyelv, művelt köznyelv
+    - előzmények:
+        - anyanyelv visszaszorult: német, latin használat erősödik
+        - felvilágosodás
+            - igény: tudomány és művészet anyanyelven
+        - nemzetfüggetlenséghez fejlett anyanyelv kell
+    - folyamat:
+        - Bessenyei György: nyelv fejlesztésének kérdése
+        - Kazinczy: fő, Széphalom-irodalmi központ
+        - 1831, Magyar Tudományos Akadémia
+        - 1844, magyar -> hivatalos államnyelv
+    - viták:
+        - fordítás vs eredeti művek
+        - jottisták vs ypszilonisták
+            - jottisták: szóelemző írásmód (látja, kertje)
+                - vezető: Révai Miklós
+                - Kazniczy is
+                - nyernek
+            - ypszilonisták: kiejtész szerinti írásmód (láttya, kertye)
+                - vezető: Verseghy Ferenc
+        - korabeli élőbeszéd vs régi irodalom
+    - nyelvújítás táborai:
+        - neológusok: nyelvújítók
+            - Kazinczy - "Tövisek és virágok"
+            - "Felelet a Mondolatra"
+        - ortológusok: hagyományőrzők, Debreceni Grammatika (ortológusok alapelvei)
+            - "Mondolat": felelet Kaziczy művére, gúnyirat
+        - Kazinczy - "Ortológusok és neológusok nálunk és más nemzeteknél": lezárja a vitát
+    - nyelvújítási módszerek:
+        - új szavak keletkezése:
+            - pillangó:     lepe
+            - venyige:      borág
+            - Vörösmarty:   Tünde
+            - Arany:        Gyöngyvér
+        - jelentésmódolulás (régi jelentéssel):
+            - agy:      koponya
+            - váz:      madárijesztő
+            - dagály:   idulat, gőg
+            - pályázat: pályafutás
+        - szóvégek megelevenítése:
+            - nc:     fegyenc, újonc
+            - c:      élc, bohóc
+            - da, de: cukrászda, uszoda
+            - ma, me: gyurma, kelme
+            - v:      érv, terv
+        - szóelvonás:
+            - dícséret: dics
+            - gyögyörű: gyönyör
+            - vizsgál: vizsga
+            - emlékezet: emlék
+        - régi szavak felelevenítése:
+            - lomb, dísz, hon, aggastyán, év, fegyelem, szobor, bakó
+            - új jelentéssel (régi jelentéssel):
+                - alak: baba
+                - alkalom: szerződés
+                - másol: változat
+                - hölgy: nő
+            - régi személynevek
+                - Árpád
+                - Béla
+                - Gyula
+                - Zoltán
+        - szóképzés:
+            - termékeny képző:
+                - szt: fogyasz, illesz
+                - log, leg: társalog, érzeleg
+                - ng: forrong, mereng
+                - z: adományoz
+                - mány, mény: élmény, festmény
+                - vány, vény: kiadvány, ígérvény
+                - ék: jegyzék
+                - ékony, ékeny: folyékony, féltékeny
+                - atag, eteg: roskatag, zuhatag
+                - lat, let: szigorlat, címlet
+                - zat, zet: kapuzat, növényzet
+            - elavult képző:
+                - ár, ér: hordár
+                - g: adag, köteg
+                - tyú, tyű: billentyű
+                - ály, ély: apály
+            - képzők rövidülése:
+                - okvetetlen: okvetlen
+                - türedelem: türelem
+                - bizodalom: bizalom
+        - szóöszzetétel:
+            - szabályos:
+                - folyóirat
+                - búskomor
+                - betűrend
+                - vígjáték
+                - vasút
+            - igetövek előtagként:
+                - gyógyszer
+                - raktár
+                - jármű
+                - óvszer
+                - vonzerő
+            - szócsonkítás:
+                - híg + anyag: higany
+                - cső + orr: csőr
+                - könnyú + elméjű: könnyelmű
+                - levegő + ég: lég
+                - talp + alj: talaj
+                - tanítás + ársztó: tanár
+                - rovákolt + barom: bogár
+        - nyevjárásbeli szavak köznyelvivé tétele:
+            - páholy
+            - bútor
+            - rikkancs
+            - bibe
+            - betyár
+        - idegen szavak lefordítása:
+            - álláspont: Stadtpunkt
+            - anyag: materia
+            - befolyás: influxus
+            - légyott: randezvous
+            - Szilárd: Constantinus
+            - Győző: Victor
+        - idegen szavak magyarosítása:
+            - balanea: bálna
+            - rime: rím
+            - arszlán: oroszlán
+            - Leipzig: Lipcse

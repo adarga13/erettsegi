@@ -1,0 +1,183 @@
+- Athén
+    - démosz: kézművesek, kereskedők, parasztok (legtöbben)
+    - arisztokrácia kezében a hatalom
+    - gabonatermelés csökken (gyarmatosítás) -> arisztokrácia gazdasági súlya csökken -> démosz jelentősége nő
+    - kereskedelem fejlődése -> pénzgazdálkodás (réz, ezüst, arany)
+    - démosz meggazdagodik, politikai jogot akar
+    - arisztokratikus köztársaság: minden politikai tisztség arisztokrácia kezében
+    - arkhón: legfontosabb tisztség
+        - elsőször 1 -> 3 -> 9
+        - életük végégig -> 10 év -> 1 év
+    - Drakón
+        - i.e. VII
+        - írásba fogalata a törvényeket
+            - arisztokrácia érdekeit védték
+            - előtte csak szokás alapján ítélkeztek
+    - Szolón
+        - i.e. 594
+        - eltörölte az adósrabszolgaságot, elengedte az adósságokat
+        - ekklészia: népgyűlés
+            - bárki tagja lehet
+        - héliaia: esküdtbíróság
+            - bárki taja lehet
+        - vagyoni helyzet alapján határozza meg a jogokat
+            - vagyon gyarapodás is számít
+                - démosz rétegét segítette
+        - demokrácia alapjait fektette le
+            - államhatalom a nép kezében van
+    - polgárok saját pénzből katonák
+    - hopliták: nehézfegyverzetű gyalogos
+    - hopliták és flotta (kereskedők hajóiból) szerepe nő -> démosz és kereskedők befolyása nő
+    - Peiszisztratosz: türannosz (zsarnok)
+        - rendszere: türannisz
+        - egyeduralom
+        - arisztokrata
+        - intézkedéseivel a démosz erősödik
+        - megdöntik a rendszerét
+    - Kleiszthenész
+        - i.e. 508
+        - démosz kap polgárjogot
+        - demokrácia létrejötte
+        - új, terület alapú felosztás
+            - katonai, politikai és közigazgatási rendszer alapja
+            - 3 rész: városi, tengerparti (démosz többségben), belső (démosz többségben)
+                - ezeket 10 részre
+                - a 3 részből 1-1 alkot egy phülét
+            - minden phülé azonos számú katonát állít ki
+        - ekklészia: népgyűlés
+            - legfőbb hatalom
+            - minden athéni polgár
+            - törvényhozás, háború és béke kérdése, fontos kérdések
+        - bulé: tanács
+            - minden szabad polgár sorsolással
+            - minden phüléből 50 (összesen: 500 fő)
+            - javaslatok a népgyűlésnek
+            - döntés amikor a népgyűlés nem ülésezik
+        - areioszpagosz: arkhónok tanácsa
+            - jelentősége csökken
+            - tisztviselők ellenőrzése
+        - sztratégosz: katonai vezető
+            - választással, egy embert akár többször is (csak itt)
+            - állam tényleges irányítói
+        - cserépszavazás: zsarnokság ellen
+            - cserépdarabra nevet írtak, aki a legtöbbet kapja 10 évre száműzik, vagyonát megtarthatja
+            - min 6000 résztvevő kell
+    - görög-perzsa háború
+    - szárazföldi vagy tengeri flotta fejlsztése (vita)
+        - szárazföldi: Ariszteidész
+        - tengeri: Themisztoklész
+        - flottát fejlesztik, Ariszteidészt 10 évre száműzik
+    - Priklész: athéni demokrácia fénykora
+        - sztratégosz
+        - szegények is részt tudjanak venni az állami munkában -> napidíjat kapnak (kiesések pótlására)
+        - napidíj: esküdtbíróság, bulé, színház
+            - sokan megélhatésért politizáltak: könnyű őket megvesztegetni
+        - sztratégosz kivételével minden tisztség sorsolással
+    - athéni társadalom
+        - polgárok: athéni szülőktől született férfi
+            - nincs köztül jogi különbség
+        - családtagok:
+            - polgárok családja
+        - metoikoszok: bevándorlók és felszabadított rabszolgák
+            - nincs polgárjog
+            - adóznak
+            - szabadok
+        - rabszolgák: nem szabadok, árutermelők
+            - gazdasági fejlődés -> földbirtokosok, műhelytulajdonosok, hajótulajdonosok rabszolgákat vásárolnak
+            - termelőmunka egyre nagyobb részét végzik
+
+- Julius Caesar:
+    - triumvirátus (3 férfiú szövetsége): Caesar, Crassus, Pompeius
+        - senatus ellen
+        - hatalom és tisztségek megszerzése
+        - Caesar consul lett
+            - földett adott Pompeius katonáinak
+            - később a többiek is consulok
+        - helytartói tisztségeken osztoztak:
+            - Crassus: Syria
+            - Caesar: Gallia
+            - Pompeius: Hispánia
+        - Crassus csatában elesik -> a triumvirátus felbomlik
+    - növelte Gallia területét és ujjászervezte
+    - Pompeius a senatus mellé állt Caesar növekvő hatalma ellen
+    - összekovácsolt, személyhű hadsereg
+    - Rubicon folyót átlépte Itáliába (nem szabad sereggel belépni Itáliába) -> Pharszalosznál legyőzi Pompeius seregét
+    - i.e. 48, örökös diktátorrá választja magát, tisztségeket vesz fel sorba
+    - reformokat hozott: aranypénz, provinciabelieknek polgárjogot adott, senatus létszáma 600->900 fő és provinciabelieket is felvett
+    - javított a naptáron: egyitomi csillagászok alapján, mai napig Julián-naptár
+    - i.e. 44 március 15, megölik Caesart, Brutus és Cassius
+
+- görög-római hitvilág
+    - görög ember inkább a város polgárai mint görög
+    - minden poliszt összeköt a vallás
+    - politeista: sokistenhívő
+        - minden isten másképp született meg
+    - totemizmus: gyakran állat alakjában jelennek meg az istenek
+        - Zeusz: bika
+        - Athéné: bagoly
+    - istenek:
+        - ember alakúak és jelleműek: emberi vágyak, természet és kinézet
+        - Olümposzon laknak
+        - nem egyenlőek: Zeusz a főisten
+        - halhatatlanok
+        - saját tevékenységi körük
+            - Poszeidón: földrengés, tengeri vihar, terngerek
+            - Athéné: céltudatosság, bölcsesség
+        - tiszteletet követeltek: áldoztak nekik, állatok, növények, elégették
+    - sok isten: nem tudjuk mennyi, mítoszonként változik
+    - nincs egységes papság: szertartásokat állami tisztviselők vezetik
+    - mítoszok választ adnak az alpvető kérdésekre: világ keletkezése, az ember helye és célja a világban
+    - mítoszok nem alakulnak hittételekké
+    - nincs halál utáni jólét: az élet élvezetére koncentráltak
+    - halál után: Hádész birodalma
+        - nyomasztó sor
+        - csak a hősök kerülnek elíziumba: örök boldogság
+    - jósdák: jövő mondás, béke-háború kérdése
+        - lehíresebbek: delphoi (Apollón), dódónéi (Zeusz, levelek susogásából)
+    - betegek az istenek gondoskodására vágytak
+        - Aszklépiosz szenthelyeibe zarándokoltak: álmukban meggyógyítja őket
+            - leghíresebb: Epidaurosz
+    - eleusziszi szentély: Déméter és Perszephóné, misztikus beavatás
+    - római: sok mindent átvettek a görögöktől
+        - etruszk korban jelentek meg az emberalakú istenek
+        - etruszk hatásra lett fontos a jóslás: madarak reptéből, állatok beleiből, májból
+        - átvették és megfeleltették a görög istenekkel az isteneiket: akijük nem volt most lett
+            - Jupiter = Zeusz
+            - Neptunusz = Poszeidón
+        - a vallás a közösséghez és államhoz tartozást jelentette
+        - állami és vallási élet összeforrt: szertartásokat magisztratusok (állami hivatalnokok) vezették
+        - Vesta-szüzek: tüzet őrizték és adtak bárkinek
+        - jósok: etruszkok a legnagyobb becsben
+
+- kultúrális emlékek:
+    - görög:
+        - színjátszás: Dionüszosz isten tiszeteletére rendezett szertartásokból
+        - építészet: főleg középületek
+            - templomok, színházak, stadionok, oszlopos csarnokok
+            - oszlopok: dór, jón, korintoszi
+            - anyag: mészkő, márvány
+            - kőkockákból vaskapcsokkal tartották össze
+            - frízek: domborműsor, áthidaló gerendákon
+            - timpanon: háromszög alakú, tetőzetet zárja le
+            - szobrokkal díszitett épületek: festették
+        - szobrászat: kiemelkedő művészet
+        - tudományos gondolkodás filozófia
+        - Szókratész: vannak örök érvényű értékek (igazság, szeretet, ...)
+        - Platón: Szókratész tanítványa
+            - ideális állam, mindenki a képességeinek legmegfelelőbb feladatot végzi
+            - idák világa örökké létező
+        - Arisztotelész: Platón tanítványa
+            - anyagi és szellemi világ
+            - ideális államforma: igazságos egyeduralom
+        - Hérodotosz: történetírás kezdete
+            - nem csak eseményeket, de az idítékokat is lejegyzi
+        - Thuküdidész: legnagyobb görög történetíró
+        - olümpiai játékok: első i.e. 776
+    - római:
+        - cirkuszok: szabad tér, kocsiverseny, szurkolótábor
+        - fürdők: társas együttlét, tisztálkodás
+        - amfiteátrum: gladiátor játékok, Colosseum, állatviadalok
+        - színház: etruszk komiédiák, római színművek, állandó zsínházak
+
+- zsidó vallás:
+    - 

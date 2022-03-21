@@ -1,0 +1,187 @@
+A kommunikáció tényezői és funkciói
+A kommunikáció nem nyelvi kifejezőeszközei és szerepe
+A kommunikáció formái: szóbeliség, írásbeliség
+A sikeres nyelvhasználat gyakorlata: udvariasság és köszönési formák
+
+A kommunikáció tényezői és funkciói
+    - kommunikáció: egy jelrendszernek az emberi érintkezésben való szándékos, kölcsönös felhasználása
+        - beszéd: legfontosabb, legalapvetőbb, legáltalánosabb
+    - Jakobson model:
+        - adó (beszélő): elgondol, kimond, kódol
+        - vevő (hallgató): észlel, felfog, értelmez, dekódol
+        - jel: az üzenet olyan formátuma, amely képes a csatornán haladni
+        - csatorna: közeg, melyen keresztül az üzenet eljut az adótól a vevőig
+        - beszédhelyzet: a kommunikáló felek között kialakult pillanatnyi helyzet
+            - a kommunikációnak csak itt ebben a helyzetben van jelentése
+        - valóság: amiről beszélünk, a vevő is ismerje részben (közös előismeret)
+        - üzenet: a közlésfolyamat eredménye, a jel a vevő által dekódolva
+    - funkciók:
+        - fő funkciók:
+            - referenciális (tájékoztató): a valóság tényszerű közlése, erre kérdések
+                - ált. kijelentő, kérdő mondatok
+            - motív (kifejező): adó érzelmeit, viselkedését fejezi ki
+                - ált. felkiáltó, óhajtó mondatok
+            - konatív (felhívó): kérés, felszólítás, a vevő befolyásolása a cél
+                - ált. felszólító mondatok
+        - egyéb funkciók:
+            - fatikus: kontaktusra irányul, kapcsolatkezdő, -fenntartó, -záró
+            - metanyelvi (értelmező): a kódra irányul, nyelvről beszélünk, szavak értelmezése, szavak magyarázata, visszakérdezünk
+            - poétikai (esztétikai): üzenetre irányul, jó hangzás, képi kifejezés, szójáték
+
+
+A kommunikáció nem nyelvi kifejezőeszközei és szerepe
+    - metakommunikácoió: nem verbális jelek használata
+    - nem verbális jelek:
+        - mimika: arcjáték
+        - tekintet: szemkontaktus, szemmozgás
+        - vokális jelek: hangnem, hanghordozás, hangerő, hangszín, hangsúly, szünet, beszédtempó
+        - mozgásos kommunikáció: gesztus, testtartás, térköz
+        - emblémák: ruha, haj, díszek
+    - nem verbális jelek jellmzői:
+        - érzelmeket fejeznek ki
+        - színesítik a beszédet
+        - partnerrel való viszonyt fejezik ki
+        - öröklött (nevetés, sírás)
+        - tanult ()
+        - igazsághordozók
+        - kultúrától függő és nem függő jelek
+        - fontos a verbális jelekkel való összehangolás
+    - mimika:
+        - 7 féle érzelem: öröm, bánat, meglepetés, félelem, harag, undor, érdeklődés
+        - nem tanult, öröklött
+    - tekintet:
+        - babonák: szem a lélek tükre, szemmel verés
+        - hangulatot tükröz
+        - mások tekintete benyomást kelt
+        - figyelemfelkeltő, hatáskeltő eszköz
+        - fontos az időtartam a szemkontaktusnál
+        - szemmel ellenőrizzük felfogják-e mit mondunk
+    - vokális jelek:
+        - nehéz elválasztani a verbális jelektől
+        - hangeffektusok
+        - nem szóbeli megnyilvánulás
+        - nem mindig tudatos
+        - elemei: hangerő, hangsúly, hanglejtés, beszédtempó, szünet
+    - mozgásos kommunikáció
+        - gesztus: kéz, fej, karok, törzs, láb mozgása
+            - fejmozgás: igenlés, helytelenítés, tagadás, megszégyenülés, elszomorodás
+            - kéz és karmozgás: hívás, elutasítás, tiltakozás, kérés, könyörgés, fenyegetés, köszönés
+            - partner beszédének a szabályozása: magyarázás, gyorsítás-lassítás
+            - kultúránként változik: latin-bő gesztusrendszer, angol és skandináv-visszafogott
+            - pl: karbatett kéz - védekező, összeszorított ököl - aggresszivitás, nyitott tenyér - őszinte
+        - testtartás:
+            - viszony kifejezés, szubjektív értékelés, álláspontot, érzelmeket
+            - érzelmek megváltozása, szándék kifejezése
+            - pl: súlypontáthelyezés, felegyenesedés
+        - térköz: az egymástól való távolság
+            - viszonyt fejez ki
+            - kultúránként változik
+            - saját tér: kiborulás ha megsérül
+            - típusok:
+                - intim távolság: 0.0m - 0.5m
+                    - akár testi kontaktus
+                    - 0.25m: intim közelség
+                    - suttogás, szaglás, érintés
+                - személyes távolság: 0.5m - 1.2m
+                    - halk beszédre alkalas
+                    - személyes témák megbeszélésére
+                    - majdnem a teljes alak látható
+                - társasági távolság: 1.2m - 3.0m
+                    - normál hangvétel
+                    - teljes alak látható
+                    - hivatalos témák
+    - emblémák:
+        - külső jellemzők
+        - elemei: hajviselet, ruházat, ékszerek, smink
+
+
+A kommunikáció formái: szóbeliség, írásbeliség
+    - szöveg: nyelvi elemekből, mondatok lácszerű kapcsolódása, közös téma, kommunikációs kapcsolat lezárt, teljes egység
+        - csoportosítás: élőbeszéd, írott szöveg
+    - szóbeliség hamarabb mint írásbeliség
+    - összehasonlítás:
+        |             élőbeszéd                  |         írott forma          |
+        +----------------------------------------+------------------------------+
+        | hangok egymásutánja                    | írásjelekké alakítás         |
+        | időben mulandó, helyhez kötött         | időben, térben állandó       |
+        | hallgató visszajelezhet                | korlátozott visszajelzés     |
+        | gyors gondolkodás, azonnali szövegezés | gondolkodási idő             |
+        | minden közlési eszköz                  | korlátozott közlési eszközök |
+        | ösztönös, igénytelen nyelv             | tudatos, igényes nyelv       |
+        | lazább, szabálytalanabb                | szabályosabb, megfontoltabb  |
+        | hiányos mondatok                       | bonyolult mondatok           |
+        | normáktól való eltérések               | szigorú normakövetés         |
+    - hátrányok:
+        - élőbeszéd:
+            - gyakori szabálytalanság
+            - töltelékszavak
+            - közhelyek
+            - kevés emberhez jut el
+            - nyelvi panelek
+            - beszédhibák
+            - beszédritmus zavar
+        - írott forma:
+            - nincs személyesség
+            - nincs non-verbális kommunikáció
+            - zeneiség csak írás külalakjával
+            - nincs azonnali visszajelzés
+    - gyakori szövegfajták:
+        - élőbeszéd:
+            - párbeszéd
+            - alkalmi köszöntő
+            - felszólalás
+            - vita
+            - vallomás
+            - élő műsorvezetés
+            - riport
+            - élőadás
+            - hozzászólás
+            - ünnepi beszéd
+            - telefonálás
+        - írott forma:
+            - hivatalos levél
+            - magánlevél
+            - napló
+            - önéletrajz
+            - rendelet
+            - dolgozat
+            - hirdetés
+            - reklám
+            - távirat
+            - üzenet
+        - sok eltérés a tiszta formáktól
+
+
+A sikeres nyelvhasználat gyarkorlata: udvariassági és köszönési formák
+    - figyelem felkeltés/fenntartás eszköze: megszólítás
+        - kommunikáció kezdetén: köszönés
+    - megszólítás
+        - szabályok:
+            - nem szabad tévedni
+            - úgy szólítsuk meg ahogy megérdemli
+            - ne legyen hízelgő, gőgös, lekicsinylő
+            - uram, asszonyom, kisasszony: akivel nem vagyunk bizalmasak
+        - formák:
+            - név és udvariassági kitétel: XY úr!
+            - rang és udvariassági kitétel: Elnök úr!
+            - név, rang és udvariassági kitétel: XY Elnök úr!
+        - formák régen és ma: uram, asszonyom, úrfi, kisasszon, tekintetes, nagyságos, méltóságos, elvtárs
+        - családban: becéző, melléknévvel bővített, E/1 birotokos személyraggal
+        - durva, sértő: nyanya, mitugrász
+        - hivatalban mindenkit a rangján megszólítani: elnök úr, polgármester asszony, nagykövet úr
+        - néni-vel, bácsi-val óvatosan: valaki nem szereti
+    - köszönés
+        - napszaknak megfelelően: országonként eltérő
+        - hivatalos köszönés: katonák-erőt egészséget, bányászok-sok szerencsét
+        - szabályok:
+            - férfi nőnek
+            - fiatalabb idősebbnek
+            - alacsonyabb rangú a magasabb rangúnak
+            - köszönést viszonozni kell
+            - futó találkozásnál: fejbiccentés, kalapemelés
+        - kiegészítő tevékenységek: tisztelgés, kézfogás, kézcsók, kalapemelés, fejbiccentés
+        - tegezés/magázás
+            - 17. századtól van tegezés és magázás
+            - 16. századig: baráti tegezés, nemhez intézett tegezés
+            - maga helyett ön
+        - köszönéspótlók: Téget is látni errefelé?

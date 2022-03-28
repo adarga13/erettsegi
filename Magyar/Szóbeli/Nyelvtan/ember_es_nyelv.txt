@@ -47,3 +47,45 @@ Jelek és jelrendszerek:
         - fizikai megvalósulás: hangsor
         - nyelvi jel = hangalak + jelentés
         - rögzítve: írás
+
+
+A nyelv társadalmi tagolódása:
+    - nyelvváltozatok vannak: nyelv nem egységes
+        - közösségenként más nyelvváltozat
+        - mindenki többet ismer
+        - nem önálló nyelv
+    - nemzeti nyelv: nyelvváltozatok összessége
+        - tagolódása:
+            - normatív nyelvváltozatok: nyelvi eszmény (követendő példa), nyelvi norma (nyelvi eszményt irányító szabályrendszer)
+                - irdoalmi nyelv: legigényesebb, írott
+                - köznyelv: igényes, beszélt
+                    - szleng: bizalmas társalgás, alacson rendű, képszerűség, lázadás
+            - dialektus, területi nyelvváltozat (vízszintes tagolás): földrajzi tájra jellemző nyelvhasználat
+                - egységek: nyugati, dunántúli, déli, tiszai, palóc, északkeleti, mezőségi, székely, csángó
+                - hatnak egymásra => regionális köznyelv
+            - csoportnyelvek, társadalmi nyelvváltozatok (függőleges tagolás): életmód, foglalkozás, szórakozás nyelvhasználata
+                - szaknyelv: szakma, tudomány szókincse
+                    - szakzsargon: szakszavak használata -> kívülálló kizárása
+                    - hobbinyelv: pl: sportnyelv
+                - rétegnyelv, korosztályi nyelv: korosztály sajátos nyelvhasználata társadalmi helyzettől függetlenül
+                    - ifjúsági nyelv: ma nem megfelelő
+                        - nincs egységes ifjúság
+                        - nincs ifjúság korhatár
+                        - bizalmas, családi nyelvben is ezt használjuk
+                        - szóalkotási módok:
+                            - szórövidÍtás: biosz, zsepi
+                            - jelentésbővülés: cucc, bombázó
+                            - tolvajnyelvi átvétel: csaj, ipse
+                            - katonai szelngből átvétel: penge
+                            - szóképzés: bizi, spurizik, töri
+                            - mozaikszó alkotás: BMV leves, HVCS, háef
+                            - jeletésszűkülés: apánk, anyánk -> osztályfőnök
+                    - diáknyelv témakörei:
+                        - iskola
+                        - tantárgyak
+                        - tanítási óra
+                        - taníson kívüli tevékenységek
+                    - tolvajnyelv: ekülönülés céljából sajátos nyelvhasználat
+                        - eredetileg bűnözők
+    - idiolektus: egy ember sajátos nyelvhasználata
+    - egy ember használ több nyelvváltozatot

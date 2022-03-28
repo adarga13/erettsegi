@@ -47,4 +47,58 @@ A hagok előfordulásának és találkozásának szabályszerűségei:
             - írásban jelöletlen: röntgen
         - akkor is érévnyesülnek ha mondatot váltunk és szó szó után jön
         - összetett szavak határán nem nagyon érvényesülnek
-        
+
+
+A névszók szerepe a mondatban:
+    - névszók: főnév, melléknév, számnév
+    - főnév: valóságban létező vagy ilyennek képzelt élőlény, tárgy neve
+        - konkrét főnevek: valós vagy ilyennek gondolt dolog
+            - köznév: több egyforma dolog közös megnevezése
+                - egyedi név: kutya, király, fiú
+                - gyűjtőnév: lakosság, nyáj, hegység
+                - anyagnév: arany, vas, hús
+            - tulajdonnév: valaki/valami saját megkülönböztető neve
+                - személynév: Petőfi Sándor, Varga Ádám
+                - földrajzi név: Dunántől, Kecskemét
+                - intézménynév: Nemzeti Múzeum, Bányai Júlia Gimnázium
+                - címek: Nők Lapja, Magyar Nyelvőr
+                - márkanevek: Pepsi, Colgate, Suzuki
+                - csillagnevek: Szaturnusz
+        - elvont főnevek: elvont fogalmak, jelenségek, pl: bűn, szabadság
+        - mondatbeli szerepe: minden mondatrész lehet
+            - alany: Kati szép.
+            - állítány: Kati orvos.
+            - tárgy: Labdát vett.
+            - határozó: Az erdő mellett patak folyik.
+            - jelző: Az orvos barátom elutazott.
+        - toldalékolás:
+            - jelek: többes szám, birtokos személyjel, birtoktöbbesíő jel, birtokjel
+            - ragok: tárgy, határozó
+            - képző: fosztó, gyűjtő
+    - melléknév: személyek, tárgyak tulajdonságait fejezi ki
+        - valaminek a természete: pl: türelmes, becsületes
+        - valamivel ellátottság: pl:eszes, élő
+        - vaminek a hiánya: pl:fehőtlen, védtelen
+        - velehová tartozás: pl: gimnáziumi, esztergomi
+        - valamilyen helyzet: pl: hátsó, függőleges
+        - nagyság: pl: tenyérnyi, kosárnyi
+        -mondatebeli szerep:
+            - jelző: Szőke lány sétál az utcán.
+            - állítmány: Ádám okos.
+            - határozó: Szépen zongorázik.
+        - toldalékolás:
+            - jelek: fok, kiemelő
+            - ragok: -ul/-ül, -lag/-leg,
+            - képzők: -i
+    -számnév: mennyiséget, sorban elfoglalt helyet fejez ki
+        - határozott: pontosan megnevezi a számot vagy sorrendet
+            - tőszámnév: kettő, tíz
+            - törtszámnév: harmad, nyolcad
+                - képzője: -d
+            - szorszámnév: hatodik, ötödik
+                - képzője: -ik
+        - határozatlan: hozzávetőleg nevezi meg a mennyiséget
+            - pl: sok, néhány
+        - mondatbeli szerep:
+            - mennyiségjelző: Öt kiflit ettem.
+            

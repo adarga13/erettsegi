@@ -1,0 +1,50 @@
+A hagok előfordulásának és találkozásának szabályszerűségei
+A névszók szerepe a mondatban
+A mondat modalitása
+
+A hagok előfordulásának és találkozásának szabályszerűségei:
+    - hangokat összefüggően ejtük
+    - magánhangzó törvények:
+        - hangrend: magas, mély, vegyes
+            - mély: pl: háború
+            - magas: pl: körte
+            - vegyes: magas és mély magánhangzókat is tartalmaz, pl: béka
+            - régi szavak csak mély vagy magas hangrend
+            - összetett szavak: vegyes
+        - illesztés: hangrend kiterjesztése a toldalékra
+            - magashoz magas, mélyhez mély toldalék
+            - vegyes: utolsó szótag határozza meg
+                - mély: mély
+                - é, i: mély
+                - ö, ő, ö, ű: magas
+                - e: váltakozik, ált. magas a jó
+            - összetett szavak: utótag határozza meg
+            - toldalékok többalakúsága:
+                - egyalakú: -t, -kor
+                - kétalakú: hangrendhez illeszkedik, pl: -ban/-ben
+                - háromalakú: hangrendhez és ajakműködéshez igazodik: -hoz/-hez/-höz
+        - hiátus, hangűr: magánhangzók között ejtéskönnyítés: j hang
+    - mássalhangzó törvények:
+        - hasonulás: két egymás mellet mássalhangzó, egyik megváltoztatja a másikat -> új fonéma
+            - részleges: egy képzési mozzanat változik, írásban nem jelöljük
+                - zöngésség szerint: második zöngéssíti vagy zöngésteleníti az előtte lévőt
+                    - pl: népdal
+                - képzés helye szerint: n hang megváltozik az utánna lévő 2 ajakkal képzett mássalhangzó hatására
+                    - pl: színpad
+            - teljes: 2 egymás melleti mássalhangzó közül az egyik magához hasonlóvá tesz a másikat
+                - egyik átalakul a másikba
+                - írásban jelölt: -sz, -s, -z, -dz végű igék + -j
+                    - pl: olvass
+                    - ez, az + mássalhangzóval kezdődő toldalék
+                        - pl: arról
+                    - val, vel + mássalhangzóval végződő szó
+        - összeolvadás: 2 különböző mássalhangzó egy harmadikká alakul
+            - írásban jelöletlen: adjon
+        - rövidülés: hosszú és rövid mássalhangzó egymás mellett -> hosszú megrövidül
+            - pl:jobbra
+        - kiesés: 3 mássalhangzó közül egy kiesik
+            - írásban jelölt: néha, pl: bólingat, tekinget
+            - írásban jelöletlen: röntgen
+        - akkor is érévnyesülnek ha mondatot váltunk és szó szó után jön
+        - összetett szavak határán nem nagyon érvényesülnek
+        

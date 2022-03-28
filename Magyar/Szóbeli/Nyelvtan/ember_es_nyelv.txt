@@ -141,5 +141,3 @@ Az információs társadalom hatása a nyelvhasználatra és a nyevlvi érintkez
     - telefon:
         - vezetékes: udvariasság megkövetelése - kell bemutatkozás
         - mobil: nincs köszönés (kiírja a hívót)
-
-

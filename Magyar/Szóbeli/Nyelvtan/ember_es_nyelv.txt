@@ -1,0 +1,49 @@
+Jelek és jelrendszerek
+A nyelv társadalmi tagolódása
+Az információs társadalom hatása a nyelvhasználatra és a nyelvi érintkezésre
+
+Jelek és jelrendszerek:
+    - jel: érzékszervekkel felfogható jelenség, amely magán túli jelnetére utal
+    - szemiotika: jeltudomány, minden jelrendszer (nyelv is)
+        - interdisziplináris = tudományok között
+        - kapcsolat: matematika, információ-elmélet, kibernetika
+    - összetevők: jelölő, jelölt, jelentés
+        - jelölő: amit érzékelünk (elsőbbség adás tábla)
+        - jelölt: amire gondolunk (elsőbbség adás)
+        - jelentés: amire használjuk a jelet (elsőbbséget kell adni)
+    - jellemzők:
+        - érzékszervekkel felfogható
+        - önmaguknál többet jelentenek
+        - általánosító szerep (más jelekre utalnak)
+        - mindenki elfogadja
+        - jeltára és használati szabálya van
+        - emberi érintkezésben
+    - csoportosítás:
+        - eredet szerinte: természetes, mesterséges
+            - természetes: pl.: villám, láz
+            - mesterséges
+                - nyelvi: pl.: szép, -i, -ig
+                - nem nyelvi: pl.: kotta, grafikon
+        - jelölő és jelölt kapcsolata: indexikus, ikonikus, szimbolikus
+            - indexikus: ok-okozat a jel és jelentés közt
+                - pl: füst - tűz van, láz - beteg
+            - ikonikus: hasonlóság a jel és jelentés közt
+                - pl.: kép, rajz, hangutánzó szavak
+            - szimbolikus: megegyezésen alapul a jelentés
+                - pl.: színek, nyelv
+    - megjelenések:
+        - nyelvi jelrendszer
+        - tudományos:
+            - matematika: a^2+b^2=c^2
+            - kémia: H2O
+        - művészeti: zene, festészet, építészet, balett
+        - hétköznapi élet: közlekedés, tájékoztatás
+        - kutúra: gyász, ünnepek, jegyesség, esküvő
+    - nyelv mint jelrendszer: A leggyakrabban használt, legáltalánosabb jelrendszer
+        - nyelv = jel + szabály + hagyomány
+        - hagyomány = használati utasítás
+        - nyelvi szintek: fonéma, morféma, lexéma, szintagma, mondat
+        - nyelv szimbolikus
+        - fizikai megvalósulás: hangsor
+        - nyelvi jel = hangalak + jelentés
+        - rögzítve: írás

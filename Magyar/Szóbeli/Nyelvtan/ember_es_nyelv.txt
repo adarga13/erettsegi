@@ -89,3 +89,57 @@ A nyelv társadalmi tagolódása:
                         - eredetileg bűnözők
     - idiolektus: egy ember sajátos nyelvhasználata
     - egy ember használ több nyelvváltozatot
+
+
+Az információs társadalom hatása a nyelvhasználatra és a nyevlvi érintkezésre:
+    - média befolyásolja a beszédkultúrát
+    - modern kommunikációs eszközök: átmenet írás és beszéd között
+        - szlenges írásmód
+        - új műfajok: honlap, fórum, blog, SMS
+    - kommunikáció az interneten:
+        - offline:
+            - email: nem valós időben
+                - részei: fejléc, üzenet, küldő, fogadó
+                    - fejléc: feladó, címzett, tárgy, dátum
+                - nincs keltezés
+                - rövidítések
+                - hangulatjelek
+                - helyesírás nincs
+                - udariassági formulák sérülnek: köszönés, megszólítás
+        - online:
+            - chat: online kommunikáció, egyből megjelenik az üzenet
+                - igénytelen helyesírás
+            - MSN Messnger, Windows Live Messenger: 
+            - IP telefon: hang és videó hívás, teljes értékű kapcsolat
+    - SMS: korátozott karakterszám, képek
+        - ékezetek hanyaglása: nehéz
+        - nyelvromboló:
+            - kevés szó -> szókincs szegényedik
+            - rossz helyesírás
+            - nincs köszönés, aláírás
+        - pozitív:
+            - ötletes rövidítések
+            - új kommunikációs stílus
+    - honlap: publikus írás, köznyelv írott vátlozata
+    - internetes napló: naplószerű vagy véleménynyilvánítás
+        - nincs formai, tartalmi megkötés
+        - hozzászólások
+    - általános nyelvhasználati és stilisztikai sajátosságok:
+        - az internet rontja a nyelvet
+        - kevert kommunikációs forma: írott beszéd
+        - elektronikus sajátosságok
+        - új szimbólumok, szokatlal írásjelek
+        - egyéni
+        - betőhalmozés, írásjel halmozás
+        - érzelmek: emoji, nagybetű
+        - ékezetek elhagyása, nagybetű hanyagolása, írásjelek elhagyása
+        - angol szavak átvétele
+        - sajátos szókincs
+        - tegeződés
+        - nem rendezett, szabályos, szövegformázás
+        - állandósult szókapcsolatok új formában
+    - telefon:
+        - vezetékes: udvariasság megkövetelése - kell bemutatkozás
+        - mobil: nincs köszönés (kiírja a hívót)
+
+

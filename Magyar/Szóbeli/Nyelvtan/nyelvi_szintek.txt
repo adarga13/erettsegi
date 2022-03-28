@@ -101,4 +101,34 @@ A névszók szerepe a mondatban:
             - pl: sok, néhány
         - mondatbeli szerep:
             - mennyiségjelző: Öt kiflit ettem.
-            
+
+
+A mondat modalitása:
+    - mondat: beszéd/szöveg legkisebb egysége, kommunikációt tovább viszi, lezárt forma
+        - megszerkesztett: nyelvtani szabályok által jött létre
+        - beszerkesztett: szövegben funkcionál
+    - modalitás:
+        - kijelentő: tájékoztat a beszélő ismereteiről, tapasztalatairól, véleményéről
+            - jellemző igemód: kijelentő, feltételes
+            - hagnlejtés: ereszkedő
+            - írásjel: .
+        - kérdő: hiányzó ismeretet kiegészíteni, kiváncsiság kielégítése
+            - jellemző igemód: kijelentő, feltételes, felszólító
+            - jellemző szófaj: kérdőszó
+            - hanglejtés: ereszkedő, emelkedő-eső
+            - írásjel: ?
+        - felszólító: beszélő akaratának, parancsának, kívánságának kifejezése
+            - a hallgatót cselekvésre kényszeríti
+            - jellemző igemód: felszólító
+            - hanglejtés: meredek eső-ereszkedő
+            - írásjel: !
+        - felkiáltó: beszélő indulatait, érzelmeit fejezi ki
+            - vélemény érzelmi telítettséggel
+            - jellemző igemód: kijelentő
+            - jellemző szófaj: indulatszó, módosítószó
+            - írásjel: !
+        - óhajtó: vágy, kívánság kifejezése, kívánt valóság tükrözése
+            - nem kenyszerít cselekvésre
+            - jellemző igemód: feltételes
+            - jellmzó szófaj: indulatszó, módosítószó
+            - hanglejtés: ereszkedő

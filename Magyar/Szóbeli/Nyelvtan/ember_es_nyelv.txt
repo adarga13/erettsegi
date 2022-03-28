@@ -3,7 +3,7 @@ A nyelv társadalmi tagolódása
 Az információs társadalom hatása a nyelvhasználatra és a nyelvi érintkezésre
 
 Jelek és jelrendszerek:
-    - jel: érzékszervekkel felfogható jelenség, amely magán túli jelnetére utal
+    - jel: érzékszervekkel felfogható jelenség, amely magán túli jelnetsére utal
     - szemiotika: jeltudomány, minden jelrendszer (nyelv is)
         - interdisziplináris = tudományok között
         - kapcsolat: matematika, információ-elmélet, kibernetika
@@ -19,7 +19,7 @@ Jelek és jelrendszerek:
         - jeltára és használati szabálya van
         - emberi érintkezésben
     - csoportosítás:
-        - eredet szerinte: természetes, mesterséges
+        - eredet szerint: természetes, mesterséges
             - természetes: pl.: villám, láz
             - mesterséges
                 - nyelvi: pl.: szép, -i, -ig
@@ -73,7 +73,7 @@ A nyelv társadalmi tagolódása:
                         - nincs ifjúság korhatár
                         - bizalmas, családi nyelvben is ezt használjuk
                         - szóalkotási módok:
-                            - szórövidÍtás: biosz, zsepi
+                            - szórövidítés: biosz, zsepi
                             - jelentésbővülés: cucc, bombázó
                             - tolvajnyelvi átvétel: csaj, ipse
                             - katonai szelngből átvétel: penge
@@ -130,7 +130,7 @@ Az információs társadalom hatása a nyelvhasználatra és a nyevlvi érintkez
         - elektronikus sajátosságok
         - új szimbólumok, szokatlal írásjelek
         - egyéni
-        - betőhalmozés, írásjel halmozás
+        - betűhalmozás, írásjel halmozás
         - érzelmek: emoji, nagybetű
         - ékezetek elhagyása, nagybetű hanyagolása, írásjelek elhagyása
         - angol szavak átvétele

@@ -126,6 +126,7 @@ A mondat modalitása:
             - vélemény érzelmi telítettséggel
             - jellemző igemód: kijelentő
             - jellemző szófaj: indulatszó, módosítószó
+            - hanglejtés: ereszkedő
             - írásjel: !
         - óhajtó: vágy, kívánság kifejezése, kívánt valóság tükrözése
             - nem kenyszerít cselekvésre

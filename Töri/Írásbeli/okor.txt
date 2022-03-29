@@ -180,4 +180,42 @@
         - színház: etruszk komiédiák, római színművek, állandó zsínházak
 
 - zsidó vallás:
-    - 
+    - Kánaán = Palesztína
+        - 12 zsidó törzs ide telepedett le
+    - zsidóság Jahve kiválasztott népe
+    - Ószövetség: Palesztína története
+        - nép beletülése: keletről Ábrahámmal, nyugatról Mózessel
+            - legyőzték Kánaán lakosságát
+    - Saul: központi hatalom
+    - Dávid: terület egyesítése, X. század
+    - Salamon: despotikus, jeruzsálemi templom felépítése
+        - halála után 2 bomlik a birodalom
+            - észak: Izrael
+            - dél: Júdea: Jeruzsálem a főváros
+    - más népekkel kapcsolat -> idegen szokások, kultoszok
+    - próféták: Jahve bünteti idegen istenek tiszteletét
+    - Jahve a zsidók egyetlen istene
+    - babiloni uralom alatt változások: Jahve egyetlen isten, mindenség teremtője, monoteista vallás lesz a zsidó
+
+- kereszténység kialakulása:
+    - zsidóság a Messiást várja
+    - diaszpóra: zsidóság szétszóródása
+        - sokan hellenisztikus viágba kerülnek: eltávolodnak szigorú vallási előírásoktól
+    - Keresztelő János: megváltó eljövetele, bűnbánat, megtisztulás: Jordán folyó vizében (keresztelés)
+        - népszerű lett -> rómaiak kivégezték
+    - Jézus Krisztus: megváltást hirdette, közelgő végítélet
+        - életének leírása: evangéliumok
+            - 4-et elismernek: Márk, Máté, Lukács, János 
+                - bekerülnek az Újszövetségbe
+        - apostolok: tanítványok, Júdea városait járja
+            - Péter: első, eredetileg Simon
+                - Róma püspöke
+                - pápák az utódai
+                - Péter jelentése: szikla (szilárd hite miatt)
+        - üdvözlés: Istenhez méltó életetkell hozzá élni (nem szertartások)
+        - tanítások: szeretet, megbocsájtás
+            - elítéli: kapzsiság, vagyonszerzés, erőszak, gyűlölet
+        - sok követő -> Pontius Pilatus kivágezteti (zsidók kérésére)
+        - tanításaiból: kereszténység
+    - Páli fordulat: aki Jézusban hisz az üdvözül
+        - vallás megbékél az állammal, társadalmi különbségekkel

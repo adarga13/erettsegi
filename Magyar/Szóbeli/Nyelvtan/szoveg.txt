@@ -36,3 +36,40 @@
 - Motivációs levél:
     - önéletrajzhoz csatolva
     - tartalom: megszólítás, állás hallásának forrása, miért vagyok alkalmas, miért ott akarok dolgozni, szakmai bemutakozás, aláírás, dátum
+
+- Szövegösszetartó erő:
+    - szöveg: akaratot, érzelmet, gondolatot, szándékot fejez ki
+        - teljes, lezárt
+        - mondatokból megszerkesztve
+        - kohézió: szövegösszetartó erő
+    - 3 sík: nyelvtani (grammatikai), jelentésbeli (szemantikai), szituáció (valósághoz kapcsolódó elemek)
+    - mikroszerkezet: kis szöveg egység, mondatokból
+        - legkisebb egysége: mondat
+        - megszerkesztett: nyelvtanilag
+        - beszerkesztett: szövegbe illszekedik
+    - makroszerkezet: mikroszerkezetek halmaza
+        - bevezetés: kapcsolatteremtés, téma megjelölés
+        - tárgyalás: részletes kifejtés
+        - befejezés: összefoglalás
+    - lineáris kohézió: nyelvtani kapcsolóelemek, nyelvtani összefüggés
+        - határozott névelő: előre megnevezett dologra utal
+        - kötőszó: tagmondatokat egymáshoz viszonyít
+        - névmás: szóismétlés elkerülése
+            - anafora: visszautal
+            - katafora: előreutal
+            - deixis: kiutal
+        - hiányosság (ellipszis): visszautalás
+        - ragok, jelek: szavak mondatbeli szerepének meghatározása, monattá fűznek szavakat
+        - határozószók, névutók: utal és viszonyít
+        - szórend, mondat fonetika
+        - réma: közös előismeret
+    - globális kohézió: jelentésbeli kapcsolóelemek
+        - szó, szószerkezet ismétlése
+        - párhuzam
+        - ellentét
+        - részleges ismétlés
+        - rokonértelműség
+        - nemfogalom-fajfogalom
+        - felsorolás
+        - logikai tartalom: ok-okozat, időrendiség, következmény
+        - magyarázó-kiegészítő közbevetések

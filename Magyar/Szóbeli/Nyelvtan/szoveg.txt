@@ -1,0 +1,38 @@
+- Önéletrajz:
+    - szükséges: állásinterjú, pályázat, felsőoktatás
+    - típusok:
+        - tartalmilag: általános, szakmai
+        - formailag: hagyományos, amerikai
+    - hagyományos önéletrajz:
+        - időrendiség
+        - kézzel írva
+        - személyiség rajz
+        - tartalmilag:
+            - személyes adatok
+            - iskolák: név, időtartam, eredmény, tantárgyak érdeklődés
+            - szakképzettség: hely, idő
+            - munkahelyek: hol, beosztás, eredmény
+            - nyelvismeret
+            - szabadidő
+            - célok
+            - dátum
+            - aláírás
+    - amerikai önéletrajz:
+        - tömör
+        - vázlatsos
+        - előny: átlátható
+        - hátrány: személytelen
+        - tartalmilag:
+            - célok
+            - végzettség: tanulmányok, fordított időrend
+            - munkahelyek: fordított időrend
+            - képességet, készségek
+            - szeméyles rész
+            - dátum
+            - aláírás
+            - referencia
+    - gyakori hibák: hosszú, részletes, helyesírás
+
+- Motivációs levél:
+    - önéletrajzhoz csatolva
+    - tartalom: megszólítás, állás hallásának forrása, miért vagyok alkalmas, miért ott akarok dolgozni, szakmai bemutakozás, aláírás, dátum

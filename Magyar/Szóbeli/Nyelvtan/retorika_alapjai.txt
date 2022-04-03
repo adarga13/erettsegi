@@ -1,0 +1,30 @@
+- A retorika jelentősége és alkalmazásai:
+    - retorika: szónoklattan
+        - feladata: beszélni tanít
+    - szónoki beszéd: ünnepi körülmény vagy nagy közönség, szónok mondja, politikai vagy ünnepi beszéd
+    - szónok célja:
+        - meggyőzés, rábeszélés
+        - gyönyörködtetés, érzelemkifejezés
+        - ismeretközlés, tájékoztatás
+    - szónoki beszéd fajtái:
+        - tanácsadó/politikai: ügy káros vagy hasznos bizonyítása
+            - hely: parlament, rendezvény, pártösszejövetel
+        - törvényszéki/jogi: bíró döntését befolyásolni, bíró álláspontja
+        - alkalmi: eseményt/személyt/dolgot dicsőítenek
+            - hely: tanévnyitó, ballagás, esküvő, gyászszertartás, avatás
+        - egyéb: felszólalás, kiselőadás, hozzászólás, beszámoló, rádiós/TV műfajok
+    - tárgy: nem magáncél, érvelő, nyilvánosságnak
+    - jó szónoki tulajdonság:
+        - tisztesség: hitlesség
+        - szerkesztőkészség: felépítéshez adatokból
+        - stílusérzék: témának, hallgatóságnak és beszédhelyzetnek megfelelő szöveg
+        - emlékezőtehetség: beszéd memorizálása: érvek, tételmondatok, felépítés
+        - előadókészség: jó kifejező készség: verbális, non-verbális
+    - szónoki stílus:
+        - első hallásra érthető
+        - szóhasználat: hallgató műveltségéhez, figyelemfelkeltő, alakalom hangulata
+        - tagoltság
+        - ünnepélyes hang
+        - "hangos stílus": kiejtés, hangsúlyozás, hangerő, beszédtempó, szünetek
+        - szóképek: metafora, hasonlat, megszemélyesítés, metonímia
+        - érzelmi hatások: kérdő, felkiáltó, felszólító mondatok

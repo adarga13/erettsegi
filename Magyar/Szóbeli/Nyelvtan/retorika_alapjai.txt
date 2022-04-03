@@ -28,3 +28,17 @@
         - "hangos stílus": kiejtés, hangsúlyozás, hangerő, beszédtempó, szünetek
         - szóképek: metafora, hasonlat, megszemélyesítés, metonímia
         - érzelmi hatások: kérdő, felkiáltó, felszólító mondatok
+
+- Szónoklat szerkesztése:
+    1: témaválasztás, címadás, szövegtípus választás, kommunikációs helyzet: kinek, mikor, milyen céllal
+    2: anyaggyűjtés: források kiválasztása, saját ismeret gyűjtése, egyéb ötletek
+    3: elrendezés: tételmondat (szöveg váza), kulcsszavak
+        - elvek: 
+            - egység: témához kötődjön
+            - haladás és folytonosság: új információk
+            - logikus elrendezés: ok-okozat, időbeliség
+            - arányons elrendezés: bevezetés, tárgyalás, befejezés hossz
+            - fokozatosság
+            - teljesség: mindent információ
+    4: szöveg alkotás: mondatok leírása, stíluseszközök, nyelvhelyesség, helyesírás, előadásmód választás, szövegformáló eszközök
+    5: memorizálás: próbaelőadás, metakommunikáció, önellenőrzés

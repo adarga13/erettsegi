@@ -1,0 +1,249 @@
+- magyar nép eredete:
+	- őstörténet kutátás nehézségei: kevés forrás (főleg írásos)
+		- népek és nyelvek keveredtek, összeolvadtak
+		- identitástudat: közös ősök, vérségi kapcsolat
+		- kevés, beazonosíthatatlan tárgyi emlék
+    - őshaza: Urál hegység, Ob folyó, i.e. IV
+        - halász vadász életmód
+    - éghajlet változás: éltmód válotzás
+        - fémmegmunkálás, állattenyésztés
+        - nomád állattartás
+    - népek országútja: Nyugat-Szibéria és Közép-Ázsia, ie.500-500
+    	- magyar öntudat kialakulása
+    - ie.500 - elindulás a Kárpát-medence felé: török hatások (nyelv őrzi)
+    - Baskíria:	500, Volga és Káma vidéke
+    - Levédia: Volga és Don vidéke
+    	- Kazár Birodalom: szoros kapcsolat
+    		- kettős fejedelemség: kündü (szellemi hatalom), gyula (katonai vezető)
+    		- rovás írás
+    		- mezőgazdaság: nehézeke, szőlő-és gyümölcs termesztés
+    - Etelköz: IX., Don és Duna köze
+    	- kabarok: 8. törzs
+    	- törzsszövetség: vérszerződés
+    - fizettségért használták a magyar hadat háborúkban: Bizánc, Keleti Frank Birodalom
+   
+- honfoglalás:
+	- tervszerű vállalkozás
+	- 895 - Árpád, Vereckei-hágónál bevonulnak Kárpát-medencébe
+		  - Árpád fia, Al-Duna, bizánciakkal megtámadja Simeon bolgár cárt
+	- besenyők rátörnek Etelközre: magyarok Erdélybe menekülnek
+	- Pannónia elfogalalása bajoroktól
+		- 907, Pozsony teljes bajor vereség
+	- morvák kiűzése
+	
+- kalandozások:
+	- főleg nyugat felé
+	- cél: zsákmányszerzés, foglyok; megismerték a környéket
+	- nomád harcmodor
+	- I. Henrik: adófizetéssel védelem a magyaroktól (erőgyűjtésre idő)
+		- 933, Merseburg - legyőzi a magyarokat: páncélos sereg
+	- I. Ottó: döntő csapást mér magyarokra; nyugati kalandozások vége
+		- 955, Augsburg
+
+- Géza (972-997):
+	- 2 lehetőség: nomád életmód megőrzése; keresztény magyar királyság megszervezése
+	- törzsfők hatalmát megtöri
+	- senioratus: legidősebb fiú rokon örököl
+	- Sarolta: felesége, erdélyi Gyula lánya
+	- 973, hittérítőket kér I. Ottótól, nyugati támadások elkerülése érdekében
+	- fia: Vajk (aka Szent István)
+	
+- István király (997-1038):
+	- 997: Géza halála, István a trónon
+	- primogenitúra: legidősebb fiú gyermek örököl
+		- Koppány lett volna senioratus szerint az urlkodó: idegen lovagokkal legyőzi István
+	- II. Szilveszter pápától korona: 1000 és 1001 fordulóján, Esztergom megkoronázás -> Magyarország keresztény királyság
+	- államalapítás:
+		- ország 2/3-a királyi birtok
+		- várispánság: királyi vár és királyi birtok
+		- vármegye: közigazgatási egység, fontosabb várispánság körül
+			- királyi, egyházi, magánföldesúri birtok
+			- több várispánság benne
+		- ispán: várispánság élén
+			- bíráskodás, katonai vezetés, pénz kezelés
+			- nádorispán: királyi udvar ispánja
+			- megyeispán: vármegye és várispánság élén
+		- várjobbágy: ispán alatt, korlátozott szabadság
+		- várnép: várjobbágy alatt, szolgaalpú
+			- vár ellátási feladatok (földművelés, iparos munkák), katonai feladatok
+		- várbirtok: királyi birtok, várat látja el
+		- udvarbirtok: királyi birtok, királyi udvart látja el
+		- királyi tanács: ipsánok, főpapok
+		- királyi hadsereg: várjobbágyok, várnépek
+		- vitézek --> szerviensek: szabad birtokos, nem tartozik ispán alá
+	- magyar egyház kiépítése:
+		- latin egyházszervezet kiépítése
+		- püspökség: egyházmegye
+		- földadományok püspökségeknek
+		- tized: a termés 1/10 része egyháznak befizetendő
+		- minden 10 faluba egy templom
+		- kötelező: böjt, gyónás, vasárnapi mise, vasárnapi pihenőnap
+		- esztergomi püspökséget pápa érsekséggé emeli -> Német-Római Birodalomtól független magyar egyház
+			- magyar egyház élén: esztergomi érsek
+		- később: kalocsai érsekség
+		- érsekségek alatt a püspökségek
+	
+- tatárjárás:
+	- IV. Béla (1235-1270): apja elajándékozott birtokait akarja visszaszerezni (mindenkitől) => senki nem szereti
+	- Julianus barát: hírt hoz a tatárokról: Béla felfüggeszti a birtokok visszavételét (már mindenki pissed rá)
+	- kunokat beengedik az országba: kb 40.000; szükség volt a segítségükre; Kötöny a vezérük
+		- nomád életmódjuk miatt ellentétek a magyarok és kunok között: IV. Béla a kunok pártján
+	- 1241: tatárok Magyarországra támadnak: 3 irányból, Batu a vezér
+	- nyugat nem segít: egymással háborúznak épp
+		- kivéve: kis osztrák erő, Babenberg Frigyes
+	- elégedetlen alattvalók nem akarták a királyt katonailag szolgálni -> akadálytalanul haladtak előre a tatárok
+	- Pesten megölik Kötönyt (kun vezér): kunok kivonulnak az országból, pusztítanak és rabolnak
+	- 1241. aprilis 11: tatárok megsemmisítik a király hadseregét
+	- Béla Ausztriába, majd Dalmáciába Taru várába menekül
+	- kővárakat nem tudták a tatárok bevenni
+	- 1242. március - tatárok kivonulnak: Ögödej nagykán halála miatt/ csak felmérték a terepet/ magyar ellenállás
+		- nagy emberveszteség: 20-50%, eredetileg 2.000.000 lakosság
+		- magyarság aránya csökken
+		- külföldiekkel pótolják a lakosságot: 100-200 év és beleolvadnak a magyarságba
+			- legyelek: észak
+			- románok: Erdély
+			- kunok: Alföld
+			- jászok: Jászság
+	- IV. Béla megbékélést kereste a vezető réteggel: félelem az újjabb témadásoktól
+		- adományok híveinek
+	- várépítés feltétele a birtokadományozásnak: ezeket nem tudték a tatárok bevenni; régen tiltott volt
+	- városfejldés támogatása: kőfallal való körbevétel -> szabad királyi városok (pl: Buda)
+	- bárók megerősödnek: nagy összefüggő birtokok
+		- szerviensek kénytelenek behódolni, szolgálatba állni
+			- báró birtokát igazgatták, magánhadseregét (bandérium) irányították
+		- familiaritás: kíséret tagjaiként a szerviensek a báró családjához tartoznak
+	- társadalmi átlakulás:
+		- szerviensek, várjobbágyok megyénként bíráskodási kiváltságot szerztek
+			- szolgabírákat választhattak: báróktól független
+		- nemesi vármegye: vármegye alapja nem a királyi birtok, hanem a birtokosok (nemesek) közössége önkormányzati jogokkal
+		- nemesek: szerviensek és várjobbágyok egy vékony rétege
+		- szabadok a nemeseken kívül: jászok, kunok, székelyek, szászok
+			- nem tartoztak földesúri joghatóság alá
+			- együtt a királynak fizettek adót
+			- királynak fegyveres szolgálattal tartoztak
+			- vármegyéktől függetlenek: közigazgatási egységük: székek
+		- jobbágyság: hospesek, lesüllyedő szabadok (várjobbágyok), szolgaállapotúak összeolvadása
+			- egységes jogi helyzet
+			- szolgáltatásra kötelezett
+			- szabad költözés joga
+			- tizedet fizettek: egyháznak
+			- munkás kezek: többre volt szükség tatárjárás után -> gyorsult a jobbágyság kialakulása
+			- földesúr bíráskodik fölötte
+			- földek használatáért szolgáltatásokkal tartoznak a földesúrnak
+			
+- I. Károly (1308-1342):
+	- aka: Károly Róbert; Anjou Károly
+	- 1301: Árpád-ház kihalása -> trónharc -> Károly Róbert
+		- 1301-ben megkoronáztatja magát Esztergomban: főpapok, nemesség, néhány kiskirály támogatja
+		- pápa elismeri királynak: még többen elismerik
+		- 1308: királlyá választják, Budán megkoronázzák
+		- XIII. koronázási rend: Székesfehérvár, esztergomi érsek, Szent Korona
+			- 1310: újra megkoronázzák
+	- fokozatosan szerzi meg a hatalmat: valakiket békén hagy (pl: Csák Máté), valakiket egymás ellen uszít, valakiknek ígér dolgokat támogatásért
+	- tartományurak familiárisai közül egyre többen támogatták
+	- 1312, rozgonyi csata: legyőzi Abákat
+	- 1321: Csák Máté halála, megszerzi földjeit
+	- megnöveli a királyi birtokállományt: tartományurak leverésével
+		- adományoz: személyéhez hű báró réteg
+	- bárók jövedelme a király által kiosztott méltóságokból: nádor, vajda, tárnokmester
+	- honorbirtok: méltóságokhoz járó birtok, csak a betöltési idő alatt
+	- erős királyi bandérium: hatalom biztosítása érdekében
+	- ország hadereje: királyi, bárói, vármegyei bandérium; kun könnyűlovasság
+	- bányabér/urbura: a kibányászott nemesfém 1/10 be kellett a kincstárba fizetni
+	- régen: bánya esetén földcsere királlyal -> senki nem akart bányát; most: nincs földcsere, a földesúr a bányabér 1/3 megtarthatja -> érdekeltek bányászatban
+	- királyi nemesfém-monopólium: nemesfémmel csak a király kereskedhet
+		- nyers nemesfémet királyi kamarához be kell szolgáltatni -> vert pénzt adtak érte (kevesebb nemesfémet tartalmazott)
+	- értékálló aranyforint: pénzváltásból származó pénz elveszik -> pótlni kell -> kapuadó
+	- kapuadó: jobbágyok kapunként fizetnek adót
+	- megerősödnek a városok: szabad királyi városok, bányavárosok, mezővárosok
+	- harmincadvám: távolsági kereskedelem adóztatása
+	- Árpád kori területeket megpróbál visszaszerezni: Duna menti várakra sikerül, Havasalföldre nem
+	- a lengyel király (Ulászló) lányát - Erzsébetet - feleségül veszi
+	- lengyel uralkodóval Bécset elkerülő kereskedelmi útvonal létrehozása: meghiúsul
+	- fia: Lajos, legyel trón; András, nápolyi trón
+	
+- Hunyadi Mátyás (1458-1490):
+	- trónra jutás:
+		- Hunyadi János meghal: kormányzó volt, legnagyobb hatalom
+		- V. László visszköveteli királyi jövedelmeket és haderőt: Hunyadi László megigéri az átadást -> mégsem
+			- megölik a király kíséretét -> király büntetlenséget ígér -> Lászlót kivégzik -> Mátyást fogságba viszik
+		- Szilágyi Mihály: Hunyadi János sógora
+			- Mátyás király, Garai Annávla Mátyás házasság, Garaiakat nem vonják felelőségre -> Mátyást királlyá választják
+		- 1458 - Mátyást az országgyűlés királynak választja, Szilágyi kormányzó
+	- házasság cseh király lányával: Katalin
+	- Garai Lászlótól elveszi a nádori tisztséget
+	- Szilágyi Mihályt félrerakja
+	- III. Frigyes Mátyás ellen: Mátyás leveri apja seregével, koron Frigyesnél marad
+	- Felvidék megtisztítása huszita fegyveresektől: berakja őket zsoldos seregébe
+	- támogatók: Hunyadi-liga, köznemesség
+		- törökellenes politikát folytatni kell: újjab török támadások (Bosznia, Jaca)
+	- Bosznia felosztása törökök és magyarok között
+	- 1463 - Jaca visszafoglalása
+	- 1463 - 80.000 arany: Szent Korona megvásárlása Firgyestől, ha Mátyás utód nélkül hal meg Habsburgoké a magyar trón
+		- megkoronozása után ritkán hívja össze az országgyűlést, csökkenti a rendek szerepét, tisztségviselők függnek Mátyástól
+	- növekszik a népesség -> nő a termelés, de királyi bevételeket csak a jobbágyok kárára lehetett növelni
+	- 1467 - füstpénz (aka kéményadó): kapuadó helyett, háztartásonként kell fizetni
+	- rendkívüli hadiadó: évi többször is beszedi
+	- fekete sereg: zsoldos hadserege, növeli a király erejét a rendekkel szemben
+	- nem támadta a törököket, végvárrendszer megerősítése
+	- 1479, Kenyérmező: Kinizsi Pál és Báthori István visszaveri a törököket
+	- 1483: béke a törökökkel
+	- Mátyás és Ulászló cseh királyok: Mátyás - Morvaország, Szilézia; Ulászló - Csehország
+		- III. Frigyes nem ismeri el Mátyást cseh királynak -> Mátyás Ausztriára támad
+	- 1485 - Bécs elfoglalása
+	- német-római császár is akar lenni: német rendek Frigyes mellett
+	- rendek nagy rész Mátyás ellen fordul: háttérbeszorításuk miatt
+	- Beatrix: nápolyi király lánya, nincs gyermekük
+	- Corvin János: bécsi polgárlánytól gyerek, törvénytelen, neki akarja a trónt megszerezni
+	- 1490 - meghal
+	
+														
+	
+	
+			
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

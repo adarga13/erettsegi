@@ -50,11 +50,13 @@
         | latin nyelv                | görög, nemzeti nyelvek        |
         | hiszenek a purgatóriumban  | nem hiszenek a purgatóriumban |
         | kovásztalan kenyér áldozás | kovászos kenyér áldozás       |
+        | cölibátus (nem házasodhat) | cölibátus csak püpöknek       |
     - 1054, egyházszakadás: pápa és Konstantinápolyi pátriarka kitagadják egymást és híveit
         - nyugaton: katolikus egyház
         - keleten: ortodox egyház
     
 - invesztitúra harc:
+    - Frank Birodalom: Karlingok, széthull a birodalom
     - 962, I. Ottó császárrá koronáztatja magát: pápa koronázza, Német-Római császárság létrejötte
     - pápa kizárja a császárt a pápaválasztásból: függetlenedni akar, bíborosok feladata
         - bíboros: pápaválasztó joggal rendelkező főpapok, pápa nevezi ki
@@ -67,6 +69,7 @@
     - 1122, Worms: kompromisszum, lelki hatalom pápától, császár hűbéresei
     - egyház független marad: minta később más társadalmi csoportoknak a függetlenségért
     - császári hatalom meggyengül: észak-itáliában önálló városállamok
+    - III Ince főpap: koldulórendek: Ferences-rend, Domonkos-rend, tanítottak, koldultak
 
 - keresztes hadjáratok:
     - hadjárat kereszténység védelméért vagy terjesztéséért
@@ -78,13 +81,19 @@
         - többi keresztes állammal hűbéri függés
         - hűbéri kötelezettségek írásban: királyi hatalom korlátozása
     - Szaladin: egyiptomi szultán, Jeruzsálem elfoglalása
-    - XIII. század: utolsó keresztény erőd elesik
+    - XIII. század: utolsó keresztény erőd elesik, kudarc
     - Genova, Velence: utánpótlás, szállítás
     - itáliai városok megerősödnek: arabok, bizánciak kiszorítása levantei kereskedelemből
     - következményei: arab tudomány, termények (rizs), technológiák (szélmalom)
         - lovagok: kényelmes, kultúrált élet
 
+- egyéb egyházi konfliktusok:
+    - eretnekek: egyházi vagyon és hierarchia nem szükséges, egyházitól eltérő tanok
+    . inkvizíció: eretnekek elítélése, kínvallatás, ártatlanságot kell bizonyítani (nem bűnösséget)
+    - antijudaizmus: zsidóellenesség, gettók, adók, nem birtokolhat földet, nem lehet céh tagja
+
 - iszlám vallás:
+    - beduin: arab nép
     - Kába: kocka alakú épület, fekete követ (meteorit darab) őrzik, zarándokhely
     - Mohamed: Allah prófétája
     - Allah: egyetlen isten, szegények és elesettek gyámolítása
@@ -104,6 +113,7 @@
     - kalifa: Mohamed utóda, vallási és állami vezető
     - imám: pap, közös imát vezet (nem közvetít)
     - kádik: bírók, Korán alapján
+    - egyesülnek a törzsek -> arab birodalom
 
 - város:
     - önállóság, önkormányzat
@@ -118,13 +128,15 @@
             - városi tanács választja
         - tanács: patríciusok (gazdagok: kereskedők)
         - iparosok: XIII. századtól beleszólhatnak a politikába
-        - plebs: szegények, kizárva politikából, alkalmi munkák, jobbágyság városiasodásából
+        - plebs: plebejus, szegények, kizárva politikából, alkalmi munkák, jobbágyság városiasodásából
     - egy összegben fizettek adót
     - csak az uralkodótól függnek
     - fallal vették körül: védelem
     - szűk utcák
     - nincs csatornázás
     - járványok gyakoriak
+    - tűztorony
+    - mezőváros, bányaváros, szabad királyi város
     - Nyugat-Európában egyenletesen
     - környezet piaci központ: iparcikkek
 
@@ -141,6 +153,11 @@
     - rend fenntartás
     - felvonulás ünnepeken
     - támogatták a városi egyházat
+    - Levantei kereskedelem: Földközi-tengeren
+        - kelet: fűszerek, luxuscikkek
+        - Itália: arany
+    - Hanza kereskedelem: balti kereskedővárosok szövetsége
+        - észak kelet: 
 
 - román építészet:
     - Nyutat-Európa: IX-X. század
@@ -165,7 +182,7 @@
     - antik kultúra visszahozása
     - evilági lét: az élet örömei, földi boldogság (Isteni alázat helyett), embert dicsőiti
     - humanizmus: eszmei háttér
-    - építészet: kupola, oszlopok, vízszintes tagolás
+    - építészet: antik elemek, kupola, oszlopok, vízszintes tagolás
     - tudomány: megfigyelés, kísérletezés
     - művészet: vallás, antik téma, emberi problémák
     - mindenki követte: polgár, nagyúr, király

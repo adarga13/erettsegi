@@ -164,6 +164,48 @@
 					török korban nőtt a létszámuk: nem engedték őket a Német Római Birodalomba - itt ragadnak
 	- zsidók: törökök után kimentek, törökök megölték őket; XVIII.-ben örökös tartományokból, Galíciából; kereskedők
 	
+- Mária Terézia (1740-1780) reformjai:
+	- Pragmatica Sanctio: női ági öröklődés
+	- felvilágosult uralkodó
+	- 1754, vámrendelet: kettős vámhatár: birodalom körül védővám, vám a birodalom és Magyarország között; magyar külkereskedelem főleg Ausztriával
+		- magyar kivitel: mezőgazdasági termékek, fémek
+				 behozatal: iparcikkek
+		- állandó hadsereg: pénz kellett -> bevételek növelése; Mária Terézia olcsóbb államműködtetés
+		- Csehországban és osztrák tartományokban a nemesek adóztatása: magyar rendek visszautasítják a nemsesk adóztatását -> vémrendelet
+		- belső vámhatár: birodalom és Magyarország között
+			- megtartja Magyarország mezőgazdasági jellegét és a birodalom ipari jellegét
+		- merkantilizmus: behozatal csökkentése, kivitel növelése
+		- merkantilista védővámok a birodalom körül
+	- 1767, úrbéri rendelet: majorság-úrbérföld arányát rögzíti; maximalizálja a jobbágyi szolgáltatásokat
+		- nagybirtokosok bekapcsolónak a mezőgazdasági termelésbe nagyobb birtokokkal -> jobbágyoktól területet vesznek el -> 
+				-> jobbágyok termelése csökken (robot a majorságon; kisebb terület) -> jobbágyok által fizetett adó csökken
+	- 1777, Ratio Educationis: tanügyrendelet
+		- egységes iskolarendszer: népiskolától-egyetemig
+		- államhoz hűséges, hasznos polgárok nevelése
+		- modern tantárgyak: történelem, földrajz, gyakorlati ismeretek
+		- egyházi iskolák, de állam ellenőrzi
+		- államilag előírt tanterv
+		
+- II. József (1780-1790):
+	- Mária Terézia fia
+	- gyors reformok, rendek akadályozzák a reformokat, nemesi kiváltságok elavultak, egyház politikai befolyása túl nagy
+	- rendeletekkel érvényesíti reformjait: nem hívja össze az országgyűlést
+	- felvilágosult abszolútizmus
+	- jozefinisták: támogatói, Széchenyi Ferenc, Kazinczy
+	- engedélyezi a céhen kívüli iparűzést
+	- 1785, 10 igazgatási egység: égrahajtó szervek; vezetőit az uralkodó választja
+	- 1881, türelmi rendelet: evangélikusok, reformátusok, görögkeleti szabad vallásgyakorlás
+		- nincsenek a katolikus egyház ellenőrzése alatt
+		- állami hivatalokban dolgozhatnak
+		- egységesítés volt a célja ezzel
+	- felosztja a szerzetes rendeket: kivéve: tanító, orvosló
+	- plébániák számának növelése
+	- 1785, jobbágyrendelet: megszünteti a jobbágyok röghöz kötését
+		- földesúri engedély nélkül tanulhatnak
+	- 1784, nyelvi rendelet: latin helyett német az államnyelv
+		- egységesíteni akart -> nem sikerült -> magyar nemességnek nem tetszik
+		- magyar nyelv kérdése felmerül
+	- halálakor minden rendeletet visszavon kivéve: türelmi rendelet, jobbágyrendelet, alsópapságot támogató rendelet 
 
 	
 	

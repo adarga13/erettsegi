@@ -67,7 +67,7 @@
         - szárazföldi: Ariszteidész
         - tengeri: Themisztoklész
         - flottát fejlesztik, Ariszteidészt 10 évre száműzik
-    - Priklész: athéni demokrácia fénykora
+    - Periklész: athéni demokrácia fénykora
         - sztratégosz
         - szegények is részt tudjanak venni az állami munkában -> napidíjat kapnak (kiesések pótlására)
         - napidíj: esküdtbíróság, bulé, színház

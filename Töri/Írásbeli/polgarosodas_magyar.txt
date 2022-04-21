@@ -102,7 +102,101 @@
 		- rendezetlen kérdése: hadsereg, külügy, pénzügyek
 			- Bécs ezeket királyi felségjognak tekintette: ellentétekhez vezetett
 			
--
+- szabadságharc:
+	- 1848. május - karlócai kongresszus: szerbek autopnómiát akartak
+	- Vajdaság: autonóm szerb terület; Bécs igéri
+		- 1848. június - szerbek Délvidékre támadnak
+	- magyar had- és pénzügyminisztérium: bécs meg akarja szüntetni
+		- nincs elég ereje/hatalma: nemzetiségiektől akar segítséget
+	- magyar ezredeket az osztrák kormány nem küldi haza -> 1848. május Batthyányi 10 honvéd zászlóaljat rendel el
+	- Kossuth pénzügyminiszter: 1848. június önálló magyar papírpénz megalkotása (augusztus-szeptemberben jelennek meg)
+	- népképviseleti országgyűlés: Pest, 1848. július 5.
+		- július 11.: 200.000 újoncot megszavaznak
+	- Horvátország autónomiáját elismeri a magyar kormány
+		- Jelacic: önálló horvát koronatartományt akar
+			- birodalmon belül Magyarországgal egy szinten
+			- szabadságharc birodalom felbomlásához vezethet: sérti Jelacic érdekeit -> felszólítja magyarokat mondjanak le had és pénzügyekről
+	- osztrák kormány felszólítja magyarokat önálló pénz- és hadügyminisztérium megszüntetésére
+		- horvátok támogatása elég erőt ad
+		- magyarok megtagadják -> 1848. szeptember 11., Jelacic Magyarországra támad
+	- Batthyányi lemond: ezután is ő intézi az ügyeket
+	- országgyűlés ellenállás mellet dönt: vállalja a harcot
+	- OHB = Országos Honvédelmi Bizottság: honvédelmi harcot irányító testület
+	- 1848. szeptember 15. jobbágyok megnyerésére: magyar nemesek eltörlik a szőlődézsmát - állami kárpótlás
+	- Móga magyar hadsereg vezetője
+	- 1848. szeptember 29. - Pákozdi csata
+		- magyarok (Móga) leverik a horvátokat (Jelacic)
+		- Jelacic Bécs fele menekül
+	- 1848. október 8.:
+		- végrehajtó hatalom: OHB
+		- OHB elnöke: Kossuth Lajos
+	- bécsi forradalom: 1848 október 6. - október 31.
+	- 1848. október30., Schwechat:
+		- osztrákok (Windischgrätz) legyőzik a magyarokat
+	- 1848. október - román parasztok magyarok elleni felfegyverzése
+		- birodalmon kívüli független román vezetésű erdélyt ígértek -> román parasztok és határőrök magyarokra támadtak
+		- 1848. november 17. - Kolozsvér bevétele
+		- székely felkelés császári sereg ellen
+		- Józef Bem: lengyel tábornok
+			- erdélyi magyar erők vezetője
+			- császáriak kiűzése Erdélyből (1949. március) -> Erdély hátország oroszokkal szemben
+	- 1848. december 2.: V. Ferdinánd lemondtása -> Ferenc József (1848-1916)
+	- 1848 december - általános támadás Magyarország ellen
+	- felduni sereg: Görgey Albert vezetése
+		- visszavonul
+		- 1849. január 4.: Pest-Buda feladása
+	- Windischgrätz feltétel nélküli megadást követel
+	- országgyűlés Debrecenbe költözik
+	- Görgey, Klapka és Damjanich segeri egyesülnek: Dembinszky a fővezér
+	- 1849. február 26-27., Kápolna: magyar vereség
+		- Windischgrätz azt hiszi végleges vereség -> osztrák kormánynak ezt üzeni
+		- Dembinszky leváltása -> Görgey
+	- 1849. március 4.: olmützi alkotmány:
+		- Magyarország tartomány lesz
+		- osztrák uralkodónak abszolút hatalom Magyarország felett -> kompromisszumok kizárása
+	- 1849. április 14.: Habsburg-ház trónfosztása
+		- békepártiak ellehetetlenítése
+		- nemzetközi támogatást reméltek -> nem lett, Habsburgok a hatalmi egyensúly egyik pillére
+	- 1849. április 19.: Függetlenségi nyilatkozat
+		- államformáról nem dönt
+		- Kossuth Lajos kormányzó (kormányzó-elnök)
+			- rendeletei csak min 1 miniszteri jóváhagyással érvényesek
+	- 1849. május 2.: Szemere Bertalan kormány élére
+	- 1849. április 2., Hatvan: magyar győzelem
+		- elhitetik a magyarok hogy Pest felé nyomulnak
+		- délről átkarolják és bekerítik a császári sereget: Damjanich, Klapka
+			- 1849. április 4.: Tápióbicske: magyar győzelem
+			- 1849. április 6.: Isaszeg: magyar győzelem
+	- magyar győzelmek: tavaszi hadjárattal az ország nagyrészének felszabadítása sikerül
+	- 1849. május 21.: Buda visszafoglalása
+	- 1849. május 1.: Ferenc József segítséget kér I. Miklós orsz cártól: 2.000 hadsereg
+	- 1849. június: orosz seregek Magyarországon
+		- oroszokkal való ütközet előtt le kell győzni a császár seregeit
+	- Windischgrätz lecserélése: Haynau
+	- Görgey Komáromnál akarja a császáriakat legyőzni <-> Kossuth parancsba adja, hogy Szegednél
+	- Görgey Komárom-Szőny térségében vereséget szenved -> leváltják (július) -> Dembinszky
+	- Dembinszy harc nélkül feladja Szegedet
+	- 1849. augusztus 3-5., Szőreg: magyar vereség
+	- Arad-ra költözik a kormány
+	- Dembinszky nem egyesül Görgey seregeivel -> leváltják -> Bem a főparancsnok
+	- 1849. augusztus 9., Temesvár: döntő magyar vereség
+		- Kossuth lemond (Törökorszgba menekül) -> katonai és polgári hatalom Görgey-re száll
+	- 1849. augusztus 13., Világos: Görgey feltétel nélkül leteszi a fegyvert az orosz cár előtt
+		- orosz vezetők jóindulatot ígértek szóban
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			
 			
 			

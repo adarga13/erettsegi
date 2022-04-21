@@ -64,6 +64,45 @@
 			- Kossuth forradalmat robbanthat ki: Széchenyi szerint végzetes lenne
 			- liberális közvélemény Kossuthot támogatja
 
+- forradalom:
+	- 1847-1848 országgyűlés: Kossuth az ellenzék vezére
+	- Európában forradalom hullám: esély a reformok elfogadtatására <- udvar fél a felkelésstől
+	- március 3: Ellenzéki nyilatkozat: reformokat tartalmazó felirat
+		- kötelező örökválatság, kezteherviselés, népképviseleti országgyűlés, felelős kormány, alkotmány az örökös tartományoknak
+		-> március 4.: alsótábal elfogadja
+		-> március 14.: felsőtábla elfogadja (március 13-i bécsi forradalom és pesti mozgolódások hírére)
+		-> március 15.: Bécsbe viszik elfogadtatni az uralkodóval
+	- március 15.:
+		- Fiatal Magyarország (márciusi ifjak) megmozdulást szervez -> forradalommá szélesedik
+		- csatalkoznak: egyetemisták, városiak, vásárra érkező vidékiek, Pest város vezetése
+		- Landerer nyomdája: 12 pont, Nemzeti Dal kinyomtatása -> szabad sajtó
+		- Közcsendi Bizottmány: rend fenntartás és tulajdon védése
+			- vezetés: városi elöljárók, liberális nemesek
+		- Budán Helytartótanács elfogadja követeléseiket
+		- Táncsics kiszabadul a bötönből
+	- államtanács (V. Ferdinánd helyett) elutasítja a javaslatokat
+	- István nádor: magyarországi teljhatalmat kap
+		- március 17.: gróf Batthyányi Lajos-t miniszterelnöknek nevezi ki
+	- április 7.: nagykoalíciós kormány megalakulása
+		- felelős magyar kormány
+		- minden politikai irányzat képviselheti magát benne
+	- Április törvények:
+		- 1848. április 11-én szentesíti az uralkodó
+		- polgári átalakulást indítja el
+		- feudalizmus megszüntetése: jobbágyság felszabadítása
+			- kötelező örökváltság: most nem tudott az állam fizetni
+			- gyors végrahajtás: bécs ne tudja a parsztságot reformok ellen használni
+			- overall kedvező a jobbágyoknak: de azért van egy kis elégedetlenség
+		- államforma: alkotmányos királyság
+			- kormányt király nevezi ki
+			- törvényhozó hatalom: népképviseleti országgyűlés
+				- cenzusos választójog: vagyon, műveltség
+		- unió: Magyarország és Erdély egyesítése
+		- Ausztriával lényegében perszonálunió
+		- rendezetlen kérdése: hadsereg, külügy, pénzügyek
+			- Bécs ezeket királyi felségjognak tekintette: ellentétekhez vezetett
+			
+-
 			
 			
 			

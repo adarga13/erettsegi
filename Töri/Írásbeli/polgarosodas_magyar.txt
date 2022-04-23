@@ -183,7 +183,161 @@
 		- Kossuth lemond (Törökorszgba menekül) -> katonai és polgári hatalom Görgey-re száll
 	- 1849. augusztus 13., Világos: Görgey feltétel nélkül leteszi a fegyvert az orosz cár előtt
 		- orosz vezetők jóindulatot ígértek szóban
+	- megtorlás:
+		- 1949. október 6., Arad: 13 tábornok kivégzése
+								  Batthyányi Lajos kivégzése
+		- ~150 halál
+		- ~1000 börtön büntetés
+		- honvédeket császári seregbe sorozzák be
+		- túl durva megtorlás: ellenszenvessé tette Ausztriát nemzetközileg -> Haynaut menesztik
+	
+- kiegyezés és az oda vezető út:
+	- neoabszolútizmus: Ferenc József nyílt önkényuralmat vezet be
+		- népszerűtlen
+		- belügyminiszter: Alexander Bach -> Bach-korszak
+	- Bach-korszak: 1851-1859
+		- Alexander Bach a belügyminiszter
+		- Erdély, Horvátország, Vajdaság leválasztása Magyarországról
+		- megyék és városok önkormányzatának törlése
+		- polgári állam kialakítása
+			- jobbágyfelszabadítás: nem merték és akarták eltörölni
+				- áprilisi törvények alapján
+				- kártalanítás állampapírban -> értéktelen -> nemesek jelentős része anyagi csődebe
+	- 1860. március 15., Pest: nyílt ellenállás, tömegbe lövetnek
+	- passzív ellenállás: birtokosok nem vállaltak közösséget, nem töltöttek be hivatali állást
+		- pl: Deák Ferenc
+		- nem lehetett örökké folytatni: kellett jövedelem
+	- sokan emigráltak
+	- 1860. otóber: októberi diploma
+		- 1848 előtti állapotot akarta visszaállítani
+		- magyar önállóságot nagyon korlázozta volna
+		- vissza lett utasítva
+	- 1861.: februári pátens:
+		- birodalmi központosítás
+		- alkotmányos vonások erősítése
+		- magyarok elutasították
+	- Felirati Párt: Deák Ferenc és hívei
+		- feliraban akarták a februári pátenst elutasítani
+	- Határozati Párt: Teleki László és hívei
+		- határozatban akarták elutasítani a februári pátenst -> uralkodó elutasítása is
+	- 1861. augusztus: országgyűlés feloszlatása
+		- alkotmányos intézmények beszüntetése
+	- 1865, húsvéti cikk: Deák Ferenc írja
+		- alkotmányosság visszaállításáért a magyarok engednek a külpolitika, védelem és pénzügyek kérdésébe (48-as törvényekkel szemben)
+	- kompromisszum: legyen közös ügyek a pénz-, had- és külügyek
+		- két független törvényhozás (delegáció)
+	- 1867. kiegyezés: 
+		- Andrássy Gyula: miniszterelnök
+		- kiegyezési törvény: közös ügyek rögzítése
+		- Ferenc Józsefet magyar királlyá koronázzák
+	- dualizmus:
+		- kétközpontú alkotmányos monarchia
+		- közös uralkodó
+		- közös hadügy, pénzügy, külügy -> közös minisztériumok
+			- 2 delegáció: 60-60 fő
+		- hadsereg vezetése az uralkodó kezében
+		- előszntesítés joga: az országgyűlés csak arról szavazhat, amit az uralkodó szentesít
+		- Magyarországot és Erdélyt egyesítik
+		- oszágyűlés: cenzusos jog alaplján választják
+		- országgyűlésnek felelős kormány alakul
+		- közös valuta
+		- tőke és munkaerő szabad áramlása
+		- közös ügyeket közösen fizetik: Ausztria 70%, Magyarország 30%
+		
+- gazdaság a dualizmusban:
+	- Wekerle Sándor: pénzügyminiszter
+		- aranyalpra való áttérés
+	- mezőgazdaság:legmeghatározóbb ágazat
+		- export nő: adottságok és Ausztria piacának köszönhetően
+		- nő a megtermelt árumennyiség:
+			- területek növekvése
+			- termelékenység növekvése:
+				- fajnemesítés
+				- gépiesítés: állati eszközök, demográfiai robbanás -> sok olcsó munkaerő
+				- fejlettebb módszerek: talajjavítás, műtrágya	
+		- ipari növények: cukorrépa
+		- belterjes kultúrák: zöldség, gyümölcs, istállózó állattartás
+		- nagybirtokok modernizálódnak legjobban
+	- ipar: 
+		- kiegyezés -> elindítja a magyar ipar fejlődését
+			- 1872, céhek megszűnése
+		- közepes és nagyvállalatok
+		- ipar fellendül:
+			- politika
+			- olcsó munkaerő: demográfiai robbanás
+			- tőke: mezőgazdaság, külföldi
+		- élelmiszeripar, nehézipa leglátványosabb fejlődés
+		- élelmiszeripar: malomipar
+		- nehéipar: vaskohászat, szénbányászat, gépgyártás -> gőzgépek, vasútépítés
+		- 2 ipari forradalom egyszerrre jelenik meg
+		- XX. végén könnyűipar fellendül
+	- bankok összegyűjtik a tőkét -> hitelt adnak
+	- reformkori bankok: Pesti Magyar Kereskedelmi Bank, Pesti Hazai Első Takarépénztár, Takarékpénztár
+	- új nagy bankok: Magyar Földhitelintézet, Magyar Általános Hitelbank
+		- üzletrészeket vásároltak (részvényeket)
+	- részvénytársaságok a legeredményesebbek
+	- MÁV (Magyar Államvasutak) megalakulása:
+		- államosították a vasúthálózatot
+		- vasút kell a világgazdaságba való termeléshez
+	
+- polgárosodás társadalma:
+	- nagypolgárság: pénzarisztokrácia
+		- főleg meggazdagodott német és zsidó
+		- zárt társadalmi csoport
+		- nincs nagy beleszólás politikába
+	- polgári középosztály: német polgárság, polgárosuló nemesség, feltörekvő parasztság, zsidók
+		- növekszik
+		- rendi és polgári értékek keveredése
+	- kispolgárság: kisiparosok, kiskereskedők, állami kisalkalmazottak: vasutasok, rendőrök, postások
+		- növekszik
+	- ipari munkásság kialakulása
+		- ~50% szakmunkás
+			- jó bérek
+		- asszimiláció gyorsítja
+		- betanított- és segédmunkások:
+			- nagy létszám -> alacsony bérek
+			- XX. végétől női munkaerő alkalmazása
 
+- nemzetiségek, etnikai viszonyok
+	- nő a magyarság aránya:
+		- nincs kivándorlás
+		- demográfia robbanás ott, ahol magyarok laknak
+		- asszimilációt okoz: 1-2 nemzedék és beleolvadnak a magyar társadalomba
+			- vegyes nemzetiségű vidékekeket nem érinti
+	 - nemzetállam kíépítése a cél: nemzetiségiek asszimilációja szükséges
+	 	- nem erőszakosan
+	 	- oktatással akarják megoldani:
+	 		- kötelező magyar nyelv tanítása
+	 		- nemzetiségi középiskolák bezáratása
+	 		- nemzetiségiek nem hozhatnak felsőoktatási intézményt létre
+	 - nemzetiségiek ellenállnak: passzív ellenállás
+	 	- egynlőek akarnak lenni a monarchiában
+	 	- szeparatista törekvések: elszakadni akarnak
+	 		- Magyarországgal határos nemzetállamokba: Románia, Szerbia
+	 		- nemzetállamok ezt propagandával támogatják
+	 		- nemzetállamokban nem ilyen magas az életszínvonal
+	 	- román memorandum: sérelmeiket foglalja össze
+	 		- elküldik az uralkodónak -> magyar kormánynak továbbítja (olvasás nélkül)
+	 		- románok nyilvánosságra hozzák -> magyar kormány sajtópert indít -> börtönzések (később kegyelmet kapnak)
+	 - zsidóság:
+	 	- jogegyenlőség
+	 	- izraelita vallás egyenjogúsítva
+	 	- Európában zsidóüldözések -> Magyarországra menekülnek -> nagy részük asszimilálódik
+	 	- kiskereskedelem, kispiarban, alakalmazotti pályák, értelmiségi pályák dolgoznak
+	 	- nagypolgárság döntő hányada
+	 	- ipart, kereskedelmet fellendítik
+	 	- antiszeminizmus: kis mértékben
+	 		- városi kispolgárság: nekik a zsidók versenytársak
+	 		- kormányzat visszaszorítja az antiszeminizmust
+	 	- vallással közönyösek lesznek, ateisták
+	 - cigányság:
+	 	- átvették a magyar nyelvet -> nehéz számukat meghatározni
+	 	- számuk csak a bevándorlás miatt nő -> nincs demográfiai robbanás
+	 	- iparosok
+	 	- letelepednek
+	 
+			
+			
 			
 			
 			

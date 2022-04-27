@@ -230,8 +230,24 @@
 	- 1939. szeptember 1: Németország megtámadja Lengyelországot
 	
 - WW2 jellemzők:
-	- 
-
+	- furcsa háború: harci cselekmények nélküli háború
+		- Franciaország védekezésre állt be -> nem támadott
+		- Németország még nem akart hadműveletbe kezdeni -> nem támadott
+	- nincs álló háború: harckocsik, repülőgépek
+	- civil áldozatok, civil területek rombolása
+	- légi célpontok: katonai objektumok; gazdasági létesítmény; városok lakónegyedei
+	- nem tartották be a nemzetközi háborús szabályokat
+	- modern fegyvereknek nagy szerep:
+		- tank
+		- repülő: modern kor első légi csatája: 1940, angliai csata
+		- atombomba: 
+			- 1945. augusztus 6., Hirosima
+			- 1945. augusztus 9., Nagaszaki
+	- partizánmozgalmak:
+		- partizánok: szétvert hadseregből megmaradt emberek; ellenállás a megszállókkal szemben
+			- nem adták meg magukat
+			- szabotálták az ellenséget ahogyat tudták: vasutak, utak felrobbantása; gyors rajtaütések
+		
 
 
 

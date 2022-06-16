@@ -1,0 +1,155 @@
+- Arany János balladái:
+	- élt: 1817-1882
+	- lira, kisepika, nagyepika
+		- epika: Toldi
+		- lira: szbadságharcot és Petőfit siratja ("Leteszem a lantot"), később teljes válság ("Kertben", "A lejtőn")
+		- ballada: balladairás Shakespear-je
+	- ballada:
+		- versforma: Villion 15.század
+		- műfaj:
+			- kevert műfaj: lirai, epikai, drámai elemek
+			- Tragédia dalban elbeszélve
+			- időbeli kihagyások
+			- térbeli váltások
+			- szagatott mondatszerkesztés
+			- tömör előadásmód
+			- balladai homály: elhallgatások; sejtelmesség
+			- műballada és népballada
+	- csoportositás:
+		- keletkezés szerint:
+			- Nagyszalonta:
+				- ált románc
+				- pl: "A varró lányok", "Szőke Panni"
+			- Nagykőrös:
+				- történelmi téma: nem tények; esemény hatása az érzelemvilágra
+				- pl: "Ágnes asszony", "A walesi bárdok"
+			- Pest
+				- pl: "Endre királyfi"
+			- Budapest
+				- pl: "Vörös Rébék", "Hidavatás"
+		- téma szerint:
+			- parasztballadák:
+				- falu zárt közössége
+				- erkölcsi itélet
+				- pl: "Tengeri hántás", "Árva fiú", "A hamis tanú"
+			- történetiek:
+				- allegorikus jelentés
+				- nemzeti múlt nehéz korszakai
+				- pl: "Mátyás anyja", "Szondi két apródja", "V. László"
+			- romantikus ihletésűek:
+				- babonák, misztikumok
+				- pl: "Tetemre hivás", "Éjféli párbaj", "Az ünneprontók"
+			- nagyvárosiak:
+				- emberi értékek pusztulása
+				- pl: "Hidavatás", "Párviadal"
+		- szerkezet szerint:
+			- egyszólamú, vonalszerűen előre haladó:
+				- lépcsőzetes elbeszélés
+				- kihagyások
+				- gyors áttörések
+				- pl: "Walesi bárdok"
+			- többszólamú előrehaladó:
+				- szaggatottság
+				- térben vagy időben párhuzamos események
+				- pl: "Szondi két apródja", "V. László"
+			- egyszólamú körkörös:
+				- befejezésben kezdősor visszatér
+				- pl: "Ágnes asszony"
+	- jellemzők:
+		- forrás:
+			- népballadák: székely, skót, óangol
+			- műballadák: német
+		- nincs kötetbe gyűjtve -> nem tudjuk a pontos számukat
+		- történelmi:
+			- hősifelemelő téma
+			- hűség, helytállás
+			- zsarnok bukása
+		- realista lélek és emberábrázolás: tragikus összeomlás
+		- öregkori költészet:
+			- tragikus
+			- babonák
+			- bűn súlya alatt megroppanó ember
+	- "Ágnes aszzony":
+		- Nagykőrösi
+		- népies ihletésű
+		- bűnhődés legalább olyan rossz mint a bűn
+	- "Szondi két apródja":
+		- többszólamú
+		- történelmi
+		- Drégely vár ostroma
+		- források:
+			- Tinódi Lantos Sebestyén
+			- Istvánffy Miklós
+		- 2 értékrend szembeállitása
+		- 2 monológ -> nem lesz párbeszéd
+		- szultán szolgája kifogy az érvekből
+	- "A walesi bárdok":
+		- egyszólamú
+		- történelmi
+		- Ferenc József látogatására irja: nem hódol be
+		- zsarnokellensség
+		- történelmi esemény átértelmezése -> tiltakozik a politikai események ellen
+	- "Tetemre hivás":
+		- öregkori
+		- egyszólamú
+		- népi
+		- gyilkosság -> babona a seb vérzik a gyilkos láttán -> Kund Abigélné kivérzik
+		- tragédia: értékvesztés: felesleges volt a halál
+		- büntetés: megbolondul
+	- "Tengeri hántás":
+		- Dalos; Tuba kapcsolat van köztük
+		- népies
+		- elhagyja a szeretőjét -> öngyilkos lesz -> visszeajön -> megtudja -> öngyilkos lesz
+		- szórakozás és intő példázat
+		- szinek szerepe: piros; fekete; sárga
+		- öngyilkosság: morális veszteség -> nincs feloldás, csak együttérzés
+	- "Vörös rébék":
+		- Vörös Rébék = Rebeka
+			- boszorkány
+			- keritőasszony
+			- hazasságtörésre csábit -> megölik meg a felesége szeretőjét
+			- refrén: nem tudjuk ki mondja
+			- szimbólum: madár -> nem lehet elpusztitani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,85 @@
+- senatori rend:
+            - nagybirtokos arisztokrácia
+            - állam vezető hivatalnokai
+            - senatus tagjai
+            - ager publicus-ból földet béreltek + saját birtok -> latifundium: ezeken piacra termelnek
+        - lovagrend:
+            - elnevezés: lovas ként szolgáltak
+            - nem vállalhattak hivatalt -> szállitással vagy adóbérléssel foglalkoztak
+            - tartományokat béreltek: senatusnak fizettek; sokkal többet beszedtek
+- földkérdés:
+    - ager publicus:
+        - közös föld
+        - elfoglalt terület 1/3
+        - bérelni lehet belőle
+            - gazdagok sokat: néha egészet
+            - földreform: max 500 jugerum
+    - problémák:
+        - földek aprózódása: öröklés miattt
+        - Hannibál háborúja: fosztogattak; romboltak
+        - egyre hosszabb háborúk: kisbirtokosok földje tönkremegy közben
+    - latifundium: nagybirtok
+        - nő a rabszolgák aránya - olcsó munkaerő -> árak csökkenése
+        - modern módszerek
+    - kisbirtokosok: nem tudtak rabszolgát fizetni -> nem tudtak árat csökkenteni -> nehezebben modernizáltak ->
+            -> tönkremennek -> eladják a földet -> nagybirtokok még tovább nőnek
+    - fölet vesztett parasztok -> plebs
+        - római polgárjoggal rendelkeznek, földel nem
+        - városokba megy
+            - műhelyben dolgoznak: itt is egyre gyakoribb a rabszolga -> munkanélküliek lesznek
+        - az állam ellátja őket - nagy tömeg
+            - gabonaosztás
+            - cirkuszi játékok
+        - szavazatuk megvehető
+    - Tiberius Gracchus:
+        - parasztkérdés probléma - megoldás: régi rendszer visszaállitása
+        - néptributus
+        - Licinius-Sextius: ager publicus-ból bérelhető földet maximalizálja
+            - földek kerülnek vissza -> kisbirtok a parasztságnak; nem adhatják el
+        - senatori rendnek nem tetszik a reform: megölik követőivel
+    - Caius Gracchus:
+        - Tiberius öccse
+        - tanul: nagyobb követőtábor kell
+            - lovagokra alapoz: 
+                - növelte a jövedelmüket
+                - biróságokon itélkezhetnek
+            - tömeget is akarta:
+                - gabona árának levitele
+                - Karthágóban földet ajánlott 
+                - több parasztot akart -> több támogató
+                    - szövetségeseknek polgárjogot akart
+                    - visszafele sül el
+                    - nem akarták a parasztok hogy többen kelljen osztozkodni a dolgokon -> ellentábor kihasználta
+        - demagógok:
+            - Karthágó átkozott föld
+            - több parasztot akar
+            - ellenségessé tette Caius-t
+        - hiveit legyilkolják
+        - öngyilkos lesz
+- politikai rendszer válsága:
+    - terület változik; politikai intézményrendszer nem -> probléma
+        - terület:
+            - elején: kis megye
+            - végén: 3.5 millió km^2
+        - megoldás: principátus
+            - Augustus egyeduralma - köztársaságnak álcázva
+- erkölcsi válság:
+    - csalnak a politikusok: korrupció
+    - nagy távolság miatt nem tudják mi folyik máshol
+- szellemi válság:
+    - görögök fejlettebbek
+    - egységes görög-római kultúra
+- hadsereg válsága:
+    - kisbirtokosok eltűűnek -> ők a hadsereg alapja
+    - megoldás köztársaság korban: zsoldos hadsereg
+        - Marius vezeti be
+        - köznép
+    - 2 consul:
+        - 1 évre - sok háború több éves
+            - háború közepén nem jó vezetőt cserélni
+        - 1 hadsereg; 1 város vezető
+- hatalmi harc:
+    - politikai problémákat egyre gyakrabban erőszakkal oldják meg
+    - 2 ellentétes fél:
+        - senatori rend
+        - lovagrend        

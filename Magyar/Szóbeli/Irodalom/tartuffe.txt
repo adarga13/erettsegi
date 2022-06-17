@@ -1,0 +1,98 @@
+Moliere - Tartuffe:
+    - 17. század, Franciaország -> klasszicizmus
+    - színházalapítások: 14. Lajos pártolja
+    - klasszicista francia dráma:
+        - rendezett
+        - 3mas egység betartása
+        - szimmetria
+        - mértékletesség
+    - színház:
+        - felvonások
+        - lehet nők is színészek
+        - jelmezek vannak
+        - kifinomult nyelvhasználat
+    - francia tirász: Moliere, Corneille, Racine
+    - források:
+        - comedia dell arte: olasz
+            - rögtönzés
+        - farce: vásári bohózat
+        - római vígjátékok
+    - Moliere:
+        - királyi udvar drámaírója
+        - átlagtól eltérő emberek bemutatása
+        - gúgy és iróni jellemzi
+        - megoldás: mindig szerencsés kimenetel
+        - drámák: Fösvény, Tartuffe, Képzelt beteg, Tudós nők, Kényeskedők (első nagy siker)
+        - helyzet, jellem komikum
+        - Tartuffe: betiltják -> egyháznak nem tetszik
+            - 5 év múlva átdolgozva kiadják újra
+    - Tartuffe
+    - 3mas egység:
+        - Orgon háza
+        - 1 nap
+        - egy szálon fut a cselekvés
+    - 5 felvonás: szimmetrikus (3. felvonásra)
+        - 3. felvonás: megjelenik Tartuffe -> késleltetés (előtte már hallunk róla)
+    - rezonőr: Cleante
+        - rációt képviseli
+    - komikum: értékhiányt leplez le
+        - torz értéket pozitívnak állít be
+            - szereplő nincs tudatában
+        - comedia dell arte: minden szereplőnek megvan a típusa
+        - komikum forrása: 
+            - félreértés
+            - jelemek túlzása (Tartuffe-ben)
+            - ellentét (Tartuffe-ben)
+        - helyzet komikum és jellemkomikum van
+    - komikum forrás: Tartuffe álszentsége
+        - jellemkomikum: Tartuffe
+        - helyzetkomikum: asztal jelenet
+    - szerkezet:
+        - expozicio: 3. fejezetig
+            - mindenki felvonul
+        - tetőpont: asztal jelenet
+        - megoldás: Tartuffe-t tartóztatják le
+    - jellemek:
+        - Dorine:
+            - szerelem, érzelmek szabaságát képviseli
+            - érvel a szerelmesek helyett
+            - talpraesett, szókimondó
+        - Mariane és Valér:
+            - Mariane: orgon lánya; inkább zárdába mintsem ellenszegüljön apjának
+                - apja Tartuffe-hoz szeretné adni
+            - Valérba szerelmes
+        - Cléante:
+            - Elmire bátyja
+            - valóságot józan észel összekapcsolja
+            - szabadgondolkozó
+            - helyzetet ismeri -> pártatlan tud maradni
+        - Orgon, Pernelle asszony:
+            - Orgon: ház ura; szülői önkény
+            - hiszékenyek
+            - elvakultak 
+            - Pernelle: mindenkiről rosszat kivéve Tartufferől; akadéskodó
+        - Elmira:
+            - Orgon felesége
+            - megoldást keres
+            - mostohaanyja Orgon gyerekeinek
+        - Tartuffe:
+            - gazdag
+            - befurakdik egy családba
+            - képmutató
+            - 2 embert téveszt meg: Orgon, Pernelle
+                - többiek csalónak tartják
+            - jellemkomikum: másnak tűnik mint amilyen valójában
+            - mohóságának lesz áldozata: Elmira iránti szerelem
+            - Orgon vagyonát akarja
+            - helyzetkomikum: Orogon kihallgatja, lehull a lepel a szeme elől
+            - nincsenek erkölcsi gátlások
+    - nyelvhasználat:
+        - nők miatt egy határt nem lehet átlépni
+        - nem követi az atnik hagyonmányt
+        - klasszicista dráma: nyelv tökéletes legyen
+            - önmagában szórakoztasson
+    - üzenet: világot felborítja a gonoszság
+        - álszentség elutasítása
+        - hiszékenység elleni védelem
+        - gonoszt csak egy külső erlő tudja legyőzni (király)
+    - ma is játszák: ma is van aktalitása a történetnek

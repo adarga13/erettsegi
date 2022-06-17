@@ -1,0 +1,92 @@
+Radnóti Miklós:
+    - zsidó
+    - üldözés: numerus claus
+        - fasizmus
+        - munkaszolgálat: Heidenau tábor
+    - házasság: Gyarmati Fanni
+    - Bori notesz: leirja a tábori élményeit
+    - ekloga:
+        - Theokritosz: 31 hexameterben irt költemény (eidüillon -> idill)
+            - bukolikák: párbeszédes, pásztori költemény
+        - Vergilius: forditotta Theokritosz műveit
+            - idill a polgárháború alatt
+            - Eclogae cimmel 10-et kiadott
+                - ekloga bukolikák helyett
+            - Radnóti 9. eklogát forditotta
+                - megtetszett neki
+                - azonosulni tudott: idill a háború alatt
+                - irt sajátot
+    - eklogái:
+        - ciklus
+        - "Száll a tavasz": előhang
+        - 10 terv: 7 elkészül (nincs 6; 9; 10)
+        - forma:
+            - párbeszédes:
+                - költő - pásztor   1.
+                - költő - repülő    2.
+                - költő - hang      4.
+                - költő - próféta   8.
+            - monologikus:
+                - "Száll a tavasz"; 3.; 5.; 7.
+        - verselés:
+            - hexameter: "Száll a tavasz"; 1.; 3.; 5.; 7.; 8.
+            - alexandrin: 2.
+            - jambikus: 4.
+    - "Száll a tavasz":
+        - 1. vsz:
+            - tavasz érkezése
+            - himnusz
+        - 2. vsz:
+            -ellentétes az elsővel
+            - alszik a szabadság angyala - nem jön a tavasszal
+            - emberi világ sötétedik
+            - gyászzene
+        - 3. vsz:
+            - minden megmozdul: dactilus, felkiáltójel
+            - ember szabadságát követelik
+            - induló
+    - 1. ekloga:
+        - vergiliusi motto
+        - költő és pásztor párbeszéd
+        - spanyol polgárháború
+        - szétoszlik az idill
+        - halálok -> költő sors tragádiája
+        - erkölcsi parancs: alkotni kell
+    - 2. ekloga:
+        - nem pásztori
+        - költő - repülő
+        - pilóta <-> repülő
+        - háború, pusztitás <-> béke, értékörzés
+        - repülő is kételyekkel küzd
+            - elején magabiztos
+        - párja: "Nem tudhatom"
+    - 4. ekloga:
+        - munkaszolgálat alatt
+        - költő - hang
+        - kötlő = realitás, fenyegetettség
+        - hang = élet apró örömei
+        - költő <-> hang
+        - Vergilius 4. eklogája (gyerek = aranykor eljövetele)
+    - 5. ekloga:
+        - Bálint György emlékére: munkaszolgálatosként eltűnt
+        - rekviem vers
+        - sejthető halála
+        - párja: "Nem birta hát"
+    - 7. ekloga:
+        - heidenaui tábor
+        - szerelmes vers
+        - ellentét: munkatábor <-> álmok
+        - megszólitott: Fanni: érte érdemes kitartani
+        - látod-e megszólitás: bizalmas
+        - hexameter
+        - naturalista, szürrealista
+    - 8. ekloga
+        - legtávolab eklogától
+        - bibliai képek
+        - modern pusztulás képei
+    - "Töredék":
+        - talán 6. ekloga
+        - befejezetlenség -> várakozés, megdöbbenés
+        - utolsó strófa jó lezárás
+        - hiányzik a békés idill
+            - remény is csak nagyon halvány

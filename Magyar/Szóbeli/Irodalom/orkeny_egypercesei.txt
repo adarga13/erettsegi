@@ -1,0 +1,38 @@
+Örkény István:
+    - hosszú pályakezdés
+        - első siker: "Tóték és a Macskajáték"
+    - novellás kötetek: 'Nászutasok légypapiron', 'Jeruzsálem hercegnője'
+    - 'Egyperces novellák'
+    - egyperces novella:
+        - kis/minipróza -> nem az ő találmánya
+        - egyperces elnevezést ő találja ki
+        - közlés minimum <-> befogadás maximum
+        - rövid, erős szerkezettség
+        - figyelmesen kell olvasni
+        - füstcsóva elve: csak a füstöt mutatja a kéményt nem
+        - groteszk, szürrealista, naturalista
+        - változatos témák:
+            - háború: In memoriam Dr. KHG
+            - történelem: Nézzünk bizakodva a jövőbe
+            - vicc: Hir
+            - vizuális: Pecsét
+            - újságműfaj: Apróhirdetés
+    - "In memoriam dt K. H. G.":
+        - fekete humor a fasizmusra
+        - munkaszolgálatos őrrel beszélget
+        - őr fizikális fölény, munkaszolgálatos értelmi fölény
+        - őr lelövi
+        - groteszk
+        - primitiv műveletlen viselkedés
+    - "Mi mindent tudni kell":
+        - villmosjegy szövege
+        - cim a szöveg része
+        - szabályok felesleges volta
+        - el sem olvassa senki
+        - használhatatlan információ
+    - 'Nászutasok légypapiron':
+        - példázatos állatmese
+        - mézes hetek -> légypapir
+            - méz és légypapir ragad
+        - nászutasok nászút nélkül
+        - hétköznapok szürkesége -> férj nem változtat -> beletörődik -> groteszk

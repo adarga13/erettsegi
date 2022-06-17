@@ -1,0 +1,153 @@
+Biblia:
+    - jelentés:
+        - görög szó: Biblosz -> könyv
+        - Könyvek könyve
+    - keletkezés:
+        - Ószövetség: i.e.12. század - i.e.2.század
+        - Újszövetség: 2. század
+    - Ószövetség: zsidó szent könyve
+        - héber
+        - isteni kegyelem és üdvösség igérete Ábrahámank
+        - zsidó -> Isten kiválasztott népe
+    - Újszövetség: kereszténység szent könyve
+        - görög nyelv
+        - Jézus -> Isten egyetlen fia
+        - kiterjesztése az Ószövetségnek
+        - Jézus dolgai vannak benne
+    - Forditások:
+        - Luther Márton: németre -> reformáció
+        - Huszita biblia: 1. magyar nyelvű; nem teljes
+        - Sylveszter János: 1541, telejes Újszövetség
+        - Károli Gáspár: 1590; Vizsoly; protestáns Biblia
+    - kanonizáció: kiválogatják mi kerüljön a Bibliába
+        - apokrif művek: amik nem kerülnek be
+    - elbeszéléske:
+        - történetek nagyrésze: teremtéstörténet, Káin és Ábel, Bábel tornya, Ézsau és Jákob, zsidók kivonulása Egyiptomból,
+                Apostolok cselekedetei, evangéliumok
+        - evangéliumok: Jézus életéről és tanitásairól szóló műk
+            - szerzők: Lukács, Máté, Márk, János
+        - kisregénnyé vált: József története
+    - példázatok:
+        - Jézus példázatai
+        - választásra kényszeritsen
+        - erkölcsi célzat: pl: A tékozló fiú
+        - Ószövetségből: pl: Jónás könyve
+    - lira:
+        - zsoltárok - Zsoltárok könyve
+        - zsoltár:
+            - megszólitja Istent - Istenhez Istenről
+            - Isten útjára buzditja az olvasót
+            - segit az érzelmek kifejezésében
+            - gondolatritmus és figura etymologica
+            - 23. zoltár fontos
+        - Énekek éneke: szerelmi és lakodalmi költészet
+    - bölcsesség irodalom:
+        - közmondások
+        - erkölcsi, filozófiai költemények
+        - pl: Pédabeszédek könyve; Jób könyve
+    - Törvények és parancsolatok:
+        - Ószövetség: 10 parancsolat
+        - Újszövetség: Hegyi beszéd
+    - Prófétai és apolkaliptikus irodalom:
+        - prófécia = isteni üzenet
+        - próféte = prófécia hirdetője
+        - 4 nagy és 12 kis próféta
+        - Jelenések könyve
+    - levelek:
+        - Újszövetségben
+        - teológiai értekezések és alkalmi levelek
+        - cimzettek:
+            - gyülekezetek vagy vezetőik
+        - konkrét problémával foglalkoznak
+        - Pál apostol levele a korinthusiakhoz: Szeretet himnusz
+    - apokalipszis a magyar irodalomban:
+        - látomásköltészet: Petőfi, Vörösmarty
+        - Ady istenes versek
+        - Pilinszky János: Apokrif
+    - teremtés történet:
+        - 2 történet
+        - hét nap:
+            - Mózes első könyve: Genezis/Teremtés könyve
+            - kezdetben csak ég és föld
+            1. nap: világosság és sötétség
+            2. nap: égbolt
+            3. nap: szárazföld és növények
+            4. nap: égitestek
+            5. nap: vizi és égi állatok
+            6. nap: szárazföldi állatok és ember
+            7. nap: megszenteli és megpihen
+        - Ádám és Éva
+    - Káin és Ábel:
+        - Káin és Ábel testvérek: Ádám és Éva gyerekei
+            - Káin: földműves
+            - Ábel: juhpásztor
+        - áldozatot vittek Istennek, de ő nem nézett Káinra -> megharagszik
+        - Káin megöli Ábelt
+        - Káint megátkozza az Úr -> ne teremjen semmije
+        - megjelöli Káint -> ha valaki megöli hétszeres büntetés
+    - Bábel tornya:
+        - téglaégetésre rájönnek
+        - égig érő tornyot akarnak épiteni
+        - 1 nyelv volt -> nagyon powerfullok -> Istennek nem tetszik
+        - összezavaja őket, hogy ne értsék egymást
+    - Ézsau és Jákob:
+        - ikrek; Izsák és Rebeka fiai
+        - Ézsau vörös szőrös; első szülött
+        - Ézsau átadta az elsőszülöttség jogát Jákobnak
+        - Apja halálos ágyán Jákobot szenteli meg (nem tudta hogy ő; állatszőrt rekott a kezére)
+        - Ézsau meg akarja ölni Jákobot -> Jákob menekül
+    - zsidók kivonulása Egyiptomból:
+        - fáraó nem szereti izraelitákat -> első fiú-t meg kell ölni -> folyóba dobni
+        - Mózest anyja megmenti -> kosárba a folyóba rakja -> fára lánya felneveli
+        - Mózes megöl egy egyiptomit -> menekül -> megházasodik
+        - visszamegy népért -> a fáraó nem engedi el -> 10 csapás
+            - folyóviz vérré válik
+            - békák lepik el
+            - szúnyogok
+            - böglyök
+            - járvány
+            - fekély
+            - jégeső
+            - sáskák megesznek mindent
+            - 3 napos sötétség
+            - elsőszülöttek halála
+        - fároó engedi a kivonulást -> meggondolja magát utánuk mennek -> Mózes kettéválasztja a tengert
+        - Mózes keserű vizből édeset csinál -> fát dob bele
+        - Sina-hegy -> Istennek találkozik -> 10 parancsolat
+    - József története:
+        - József kiskedvenc -> testvérek meg akarják ölni -> eladják -> fáraóhoz kerül
+        - bebörtönzik, mert nem fekszik le a fáraó feleségével
+        - álomfejtések: főpohárnok, fősötőmester
+        - József megfejti a fáraó álmát -> nagy hatalmat kap
+        - jönnek a testvérei -> lopással vádolja őket x2 -> másodjára felfedi kilétét -> megbocsájt
+    - Jézus élete, halála:
+        - 
+    - A tékozló fiú:
+        - fiú Istentől eltérő utat választ -> rájön hogy rossz -> megtér
+        - Isten mindig vissza vár és megbocsájt
+    - Jónás próféta könyve:
+        - 
+    - 23. zsoltár:
+        - Dávid király ellen fellázadnak
+        - rájön, hogy ha mindenki ellene is van, Isten vele
+    - Tizparancsolat:
+        1. Istent szeresd és szolgáld
+        2. Ne vedd hiába isten nevét a szádra
+        3. Úr napját tiszteld
+        4. anyád apád tiszteld
+        5. ne ölj
+        6. ne paráználkodjd
+        7. ne lopj
+        8. ne hazudj, mások becsületét ne sértsd
+        9. felebarátod házastársát ne kivánd
+        10. ne kivánd más tulajdonát
+    - Szeretet himnusza:
+        - Pál apostol, korinthusiakhoz levelében
+        - igazi szerző Isten
+        - 3 rész:
+            - 1. rész: szeretet nélkül az ember semmi
+            - 2. rész: milyen az igazi szeretet
+                - cselekvő -> életforma nem érzés
+            - 3. rész: a szeretet felülről nem korlátos
+    - Hegyi beszéd:
+        - Jézus hegyen mondja a tanitásait

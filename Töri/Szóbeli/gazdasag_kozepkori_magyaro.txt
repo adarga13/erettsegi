@@ -1,0 +1,43 @@
+- Károly Róbert:
+    - tartományurak leverése -> királyi birtokállomány növelése -> tud belőle adományozni
+    - honorbirtok: méltóságok kapják, a poszt betöltése alatt csak
+        - királyi birtokállomány csökken -> jödelem csökken -> több bevétel kell
+    - regálék: királyi jogon beszedett jövedelem
+        - bányabér:
+            - bányanyitást szorgalmazza: nem kell telket cserélni
+            - kitermelt nemesfém:
+                - 1/3 földesúré
+                - 2/3 királyé
+        - nemesfém monopólium:
+            - nemesfémet csak a királynak lehet eldani
+            - értékálló pénzt vernek blőle
+            - kevesebb nemesfém van benne -> valamennyi megmarad
+            - csak a király veretet pénzt -> nincs pénzváltásból haszon
+        - kapuadó:
+            - pénzváltás pótlására
+            - jobbágyok kapunként (telkekként) fizetnek
+        - városok adója: egy összegben királyhoz
+        - harmincadvám: távolsági kereskedelemben
+            - ország határán
+- Nagy Lajos:
+    - ősiség megszüntetése:
+        - birtok csak apáról fiúra szállhat - ha nincs visszakerül a királyhoz
+    - kilenced:
+        - egységesiti a jobbágyok földesúri szolgáltatását
+        - termés 1/10 a földesúrnak
+        - nem tudják a nagybirtokosok elcsábitani a nemesektől a jobbágyokat
+- középkori városok:
+    - ált. jogok: vásár tartás; árumegállitó jog
+    - Zsigmond király városok fejlődését akarta
+    - szabad királyi város:
+        - fallal körülvéve
+        - céhes ipar
+        - polgárok, plebs lakják
+        - jogai: városfal; egyösszegű adó; saját vezető; saját biró; papválasztás
+    - mezőváros:
+        - jobbágyok
+        - mezőgazdaság
+    - bányaváros:
+        - bányászat
+        - polgárok, plebs lakják
+        - jogai: városfal; egyösszegű adó; saját vezető; saját biró; papválasztás

@@ -1,0 +1,60 @@
+- nemesség:
+    - lengyel után itt a legnagyobb a nemesek aránya - 5%
+    - főnemesi réteg (arisztokrácia):
+        - >10.000 hold
+            - majorságok
+            - újitásokat itt vezetik be először: istállózás, vetésforgó, új növények és állatok
+        - birodalom arisztokráciájával házasodik
+        - nem él Magyarországon
+        - nem érintkezik magyarokkal
+        - sokan nem beszélnek magyarul
+        - udvarhű
+        - legfőbb méltóságok az országban
+    - középnemesség:
+        - 1.000 - 10.000 hold
+        - gazdasági élet tagjai
+        - kisebb kastélyok
+        - gyermekeiket oktatják -> műveltek
+        - vármegye irányitása
+        - országgyűlésen fontos szerep
+    - kisnemesek:
+        - 0 - néhány*100 hold
+        - saját földön dolgoztak (hasonlóan jobbágyokhoz)
+        - megyegyűlésen szavazhattak
+        - tanulás -> felemelkedés
+        - értelmiség jelentős bázisa
+        - reformok támogatói
+        - kormánypolitika kihasználja őket: leitatások, megvesztegetés, lefizetés
+- polgárok:
+    - 18. század végén: 14%
+    - Buda, Pest, Óbuda jelentős városok -> gazdasági központ
+    - iparban nőtt a munfaktúrák száma
+    - városkoban laknak -> nincs nagy politikai befolyás -> városonként 1 szavazat
+    - oktatás fejlődése -> értelmiségiek száma nő
+    - honoráciorok: nem nemesi származású értelmiségiek
+- jobbágyok:
+    - népesség 3/4
+    - növekszik a népesség -> birtokok felaprózódnak
+                           -> csoportok elkülönülése gyorsul -> falun belüli feszültség nő
+    - egész telkes jobbágy:
+        - béresekkel dolgoztat
+    - féltelkes jobbágy:
+        - középparasztság
+    - zsellérek:
+        - <1/8 telekkel rendelkeznek
+        - házas zsellérek:  
+            - saját földjüket művelik
+            - béresként dolgoznak
+        - házatlan zsellérek:
+            - csak napszámosként dolgoznak vagy cselédként
+- jobbágykérdés:
+    - Széchenyi:
+        - "Hitel": robot helyett bérmunka
+        - önkéntes örökváltság: 1. reformországgyűlésen elbukik -> 1839-40es reformországgyűlésen elfogadják ->
+                -> jobbágyoknak nincs pénze: kb 1% tudta magát megváltani
+    - Kossuth:
+        - kötelező örökváltság: állami kárpótlással
+            - áprilisi törvények ezt mondják ki: jobbágyok felszabaditása; állam kárpótlást fizet
+                - szabadságharc bukása után nem vonják vissza -> állampapirban fizetnek: kinda értéktelen
+    - Táncsics:
+        - kötelező örökváltság állami kárpótlás nélkül -> nagyon forradalmi megoldás

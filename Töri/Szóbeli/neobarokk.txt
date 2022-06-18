@@ -1,0 +1,88 @@
+- Horty-kor: 1920-1944
+- neobarokk: korabeli uralkodó osztály stilusa
+- kaszt szerű társadalom
+- torlódó társadalom: agrár és ipari társadalom egyszerre
+- társadalmi rétegek:
+    - arisztokrácia:
+        - csökken a politikai szerep
+        - vagyonosok
+        - vidéki kastély; fővárosi lakás
+        - rang és cimhez ragaszkodnak -> egymás között házasodnak
+        - gazdaságban vezető szerep:
+            - autó használat
+            - külföldi utak
+            - szinház
+        - sportok: vivás, tenisz
+    - nagybirtokosok:
+        - 1000-2000 hold
+        - nem politizálnak
+        - gazdasági és társadalmi vezető szerep
+        - bankárok, vállalkozók
+        - dualizmusban gazdagodnak meg
+        - városi villák
+    - gentry:
+        - hivatalnokok, katona tisztek, ügyvédek
+        - felhőtlen költekezés -> lecsúszás veszélye
+        - britokos, birtoktalan nemes
+    - középpolgárság:
+        - cégtulajdonos
+        - lakás
+        - jómódúak
+        - polgári értelmiség: tanár, orvos, újságiró, szinész
+        - sok zsidó
+    - kispolgárság:
+        - kisisparosok, kiskereskedő, 
+        - 2 szintes ház:
+            - alul: munkahely
+            - felül: lakás
+        - egyes állami hivatalnokok: postás, rendőr, kalauz
+    - gazdag parasztság:
+        - >200 hold
+        - 1 fiú örököl, többi munkás lesz
+        - alacsony hivatalnokok
+    - közép parasztság:
+        - családi birtok: nincs idegen munkaerő
+        - 20-50 hold
+        - tanyaház
+        - értelmiség legalja
+    - kis és törpe birtokos
+        - 1-5 hold + kiegészités (cselédek)
+        - magas a földnélküliek aránya
+    - cseléd:
+        - agrárproletárok
+        - másokkal közös lakhely:
+            - 1 család 1 szoba
+            - másokkal közös konyha és fürdő
+        - évi 1x fizetés: terényben
+    - napszámos:
+        - mezőgazdaságban dolgoznak
+        - nincs állandó lakhely
+    - munkások:
+        - szakmunkás:
+            - nő a számuk -> alacsony fizetés
+            - kispolgári szinten élnek
+            - nők is
+        - segédmunkás: nő -> romlanak a körülmények
+        - szoba-konyha lakás
+- nők helyzete:
+    - 1.WW -> féfiak elmennek -> nők munkába állnak
+    - választójogot kapnak
+    - könnyűipar, adminisztrációs munkakör, oktatás, értelmiségi pályák
+    - dogoznak -> nincs idő családra -> csökken a szaporulat
+- életmód:
+    - nő a szabad idő -> nyaralás, sport -> tömeges
+    - szabadidő eltöltése jövedelemtől függ
+    - középréteg, kispolgár, szakpolgár: mozi; túra
+        - nem elérhető: telefon, balatoni nyaralás
+- zsidók helyzete:
+    - zsidóság létszáma csökken dulaizmushoz képest
+        - nincs bevándorlás
+        - nem szaporodnak úgy
+        - kivándorolnak
+        - kereszténnyé válnak
+    - háborús áldozatok -> mégis antiszeminizmus
+    - antiszeminizmus: zsidó ellenesség
+        - okok:
+            - Tanácsköztársaság vezetők között sok zsidóű
+            - értelmiségi állások száma csökken -> sok zsidó ott van -> konkurencia
+        - visszavonják a numerus claust

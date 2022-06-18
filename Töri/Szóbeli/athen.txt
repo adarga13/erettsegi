@@ -1,0 +1,86 @@
+- démosz: kézművesek, kereskedők, parasztok (legtöbben)
+    - arisztokrácia kezében a hatalom
+    - gabonatermelés csökken (gyarmatosítás) -> arisztokrácia gazdasági súlya csökken -> démosz jelentősége nő
+    - kereskedelem fejlődése -> pénzgazdálkodás (réz, ezüst, arany)
+    - démosz meggazdagodik, politikai jogot akar
+    - arisztokratikus köztársaság: minden politikai tisztség arisztokrácia kezében
+    - arkhón: legfontosabb tisztség
+        - elsőször 1 -> 3 -> 9
+        - életük végégig -> 10 év -> 1 év
+    - Drakón
+        - i.e. VII
+        - írásba fogalata a törvényeket
+            - arisztokrácia érdekeit védték
+            - előtte csak szokás alapján ítélkeztek
+    - Szolón
+        - i.e. 594
+        - eltörölte az adósrabszolgaságot, elengedte az adósságokat
+        - ekklészia: népgyűlés
+            - bárki tagja lehet
+        - héliaia: esküdtbíróság
+            - bárki taja lehet
+        - vagyoni helyzet alapján határozza meg a jogokat
+            - vagyon gyarapodás is számít
+                - démosz rétegét segítette
+        - demokrácia alapjait fektette le
+            - államhatalom a nép kezében van
+    - polgárok saját pénzből katonák
+    - hopliták: nehézfegyverzetű gyalogos
+    - hopliták és flotta (kereskedők hajóiból) szerepe nő -> démosz és kereskedők befolyása nő
+    - Peiszisztratosz: türannosz (zsarnok)
+        - rendszere: türannisz
+        - egyeduralom
+        - arisztokrata
+        - intézkedéseivel a démosz erősödik
+        - megdöntik a rendszerét
+    - Kleiszthenész
+        - i.e. 508
+        - démosz kap polgárjogot
+        - demokrácia létrejötte
+        - új, terület alapú felosztás
+            - katonai, politikai és közigazgatási rendszer alapja
+            - 3 rész: városi, tengerparti (démosz többségben), belső (démosz többségben)
+                - ezeket 10 részre
+                - a 3 részből 1-1 alkot egy phülét
+            - minden phülé azonos számú katonát állít ki
+        - ekklészia: népgyűlés
+            - legfőbb hatalom
+            - minden athéni polgár
+            - törvényhozás, háború és béke kérdése, fontos kérdések
+        - bulé: tanács
+            - minden szabad polgár sorsolással
+            - minden phüléből 50 (összesen: 500 fő)
+            - javaslatok a népgyűlésnek
+            - döntés amikor a népgyűlés nem ülésezik
+        - areioszpagosz: arkhónok tanácsa
+            - jelentősége csökken
+            - tisztviselők ellenőrzése
+        - sztratégosz: katonai vezető
+            - választással, egy embert akár többször is (csak itt)
+            - állam tényleges irányítói
+        - cserépszavazás: zsarnokság ellen
+            - cserépdarabra nevet írtak, aki a legtöbbet kapja 10 évre száműzik, vagyonát megtarthatja
+            - min 6000 résztvevő kell
+    - görög-perzsa háború
+    - szárazföldi vagy tengeri flotta fejlsztése (vita)
+        - szárazföldi: Ariszteidész
+        - tengeri: Themisztoklész
+        - flottát fejlesztik, Ariszteidészt 10 évre száműzik
+    - Periklész: athéni demokrácia fénykora
+        - sztratégosz
+        - szegények is részt tudjanak venni az állami munkában -> napidíjat kapnak (kiesések pótlására)
+        - napidíj: esküdtbíróság, bulé, színház
+            - sokan megélhatésért politizáltak: könnyű őket megvesztegetni
+        - sztratégosz kivételével minden tisztség sorsolással
+    - athéni társadalom
+        - polgárok: athéni szülőktől született férfi
+            - nincs köztül jogi különbség
+        - családtagok:
+            - polgárok családja
+        - metoikoszok: bevándorlók és felszabadított rabszolgák
+            - nincs polgárjog
+            - adóznak
+            - szabadok
+        - rabszolgák: nem szabadok, árutermelők
+            - gazdasági fejlődés -> földbirtokosok, műhelytulajdonosok, hajótulajdonosok rabszolgákat vásárolnak
+            - termelőmunka egyre nagyobb részét végzik

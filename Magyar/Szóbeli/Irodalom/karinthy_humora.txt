@@ -17,7 +17,7 @@ Karinthy Frigyes:
     - "Igy irtok ti"
         - 3 kiadás
         - irodalmi karikatúra, paródia
-            - paródia: irodalmi mű komikussá tétele
+            - paródia: irodalmi mű komikussá tétele; eltúlzásko
             - travesztita: fenséges téma kisszerűsitése
                 - pl: Az emberke tragédiája
             - persziflázs: személyeskedő gúny
@@ -38,6 +38,7 @@ Karinthy Frigyes:
         - Markó utcai gimnázium emléke
         - szimmetria: Magyar dolgozat, Röhög az egész osztály
         - bevezetés -> diák -> "Hazudok" -> felnőtt szemlélete
+        - tipikus iskolai jelentek: felelés; bizonyitvány kimagyarázása; 
     - nagy francia Enciklopédia: egész életében akart egy ilyet irni -> nem lett
         - segitett volna nyelvhasználatben
     - nyelv: igazság és hazugság eszköze

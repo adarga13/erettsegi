@@ -3,6 +3,8 @@
         - első siker: "Tóték és a Macskajáték"
     - novellás kötetek: 'Nászutasok légypapiron', 'Jeruzsálem hercegnője'
     - 'Egyperces novellák'
+    - munkatáborban
+    - reformkommunista -> adhat ki műveket
     - egyperces novella:
         - kis/minipróza -> nem az ő találmánya
         - egyperces elnevezést ő találja ki
@@ -17,6 +19,7 @@
             - vicc: Hir
             - vizuális: Pecsét
             - újságműfaj: Apróhirdetés
+        - parabolikusság
     - "In memoriam dt K. H. G.":
         - fekete humor a fasizmusra
         - munkaszolgálatos őrrel beszélget

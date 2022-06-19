@@ -1,0 +1,98 @@
+Hangalak és jelentés viszonya:
+    - szó = hangalak + jelentés
+    - hangalak = a hangsor amit kimondunk vagy leirunk
+    - jelentés = a fogalom amit a hangsor kifejez
+    - hangalak és jelentés kapcsolata:
+        - valódi: hangalakból következtetni lehet a jelentésre
+            - hangutánzó szavak: hangalak jellegzetes hangokat utánoz
+            - hangulatfestő szavak: cselekvést ábrázolnak vagy tulajdonságot jellemeznek
+        - konencionális: hangalak és jelentés kapcsolata megegyezésen, hagyományon alapszik
+            - többjelentésű szavak: hangalakhoz több jelentés csatlakozik
+                - összefüggés van a jelentések között
+            - azonos alakú szavak: hangalakhoz több jelentés tartozik
+                - nincs összefüggés
+                - szótári homonimák: szótári alakok azonosak
+                - nyelvtani homonimák: toldalékolt alakok azonosak
+                - vegyes homonimák: egyik szotári alakja azonos a másik toldalékolt alakjával
+            - rokon értelmű szavak: 
+                - eltérő hangalak azonos jelentést fejez ki
+                - eltérő hangalak hasonló jelentést fejez ki: intenzitásbeli vagy használati különbség
+            - több alakú szavak: addott jelentésre hasonló alakok: csak pár betűben térnek el
+            - hasonló alakú szavak: hasonló alakra más más jelentés
+            - ellentétes jelentésű szavak
+
+Stilus és jelnetés mindennapi nyelvhasználatban:
+    - Buffon: A stilus maga az ember
+    - mondanivalónakat sajátos nyelvi elemek megválogatásával fejezzük ki
+    - Stilus: A kommunikációs helyzetnek megfelelő nyelvasználat
+        - nyelvhasználati mód: ahogy kifejezzül magunkat
+    - stilisztika stilusretegek, stilusárnyalatok, nyelvi elemek felhasználási módját vizsgáló tudomány
+    - nyelvhasználat befolyásolói:
+        - kommunikációs helyzet
+        - megnyilatkozás tárgya
+        - megszólaló egyénisége
+    - stiluselemek által a nyelvi elem stilussal töltődik:
+        - állandósult stilusérték: szótárakban is ott lévő stilusérték; ami alapból kapcsolódik a szóhoz
+        - alkalmi stilusérték: adott kommunikációs helyzetben lévő stilusérték
+    - stilusrétegek: meghatározott társadalmi érintkezésre vonatkozó stilusok
+        - publicisztikai
+        - szónoki
+        - hivatalos
+        - tudományos
+        - szépirodalmi
+        - köznyelvi
+    - stilusárnyalat: stilusrétegen belül utal:
+        - lelkiállapotra: 
+        - témára: világos, logikus, nehézkes
+        - cimzettel való viszony: családias, durva, közönséges,
+        - nyelvi változat: népi, szaknyelvi
+        - beszédhelyzet: ünnepályes, egyszerű
+
+A képszerűség stiluseszközei:
+    - szépirodalmi stilus: esztétikailag legmagasabb rendű
+        - jellemző: szóképek, alakzatok
+    - szókép: két fogalom társitása közöttük lévő kapcsolat alapján -> többletjelentés
+        - egyszerű szóképek:
+            - metafora: két fogalom külső vagy belső tulajdonság alapján párositása
+                - felépités:
+                    - fogalmi sik: azonositandó - amit ki akarunk fejezni
+                    - képi sik - azonositó - amellyel megjelenteti a fogalmat
+                - csoportositás:
+                    - szerkezet szerint:
+                        - teljes: képi és fogalmi sik
+                        - csonka: csak képi sik van
+                    - szófaj szerinte:
+                        - főnévi:
+                        - melléknévi: megszemélyesités
+                        - igei: megszemélyesités
+            - megszemélyesités: élettelen tárgy élőkénti bemutatása
+                - metafora
+                - van csonka és teljes
+            - szinesztézia: különböző érzékterületekhez tartozó szavak felcserélése
+                - szimbolizmus, impresszionizmus
+            - metonimia: névcsere
+                - térbeli: hely neve ott élők helyett
+                    - Tisztelt Ház!
+                - időbeli: időpont akkori emberek vagy események helyett
+                    - 21.század borzadalmai
+                - anyagbeli: anyag nevévle a belőle készült dolog helyett
+                    - vasta ver
+                - ok-okozati: előzménnyel jelöljül az okoztot
+                    - lecsapott rá Isten haragja
+            - szindekoché: dolgot alá vagy felérendelt dologgal helyettesitjük
+                - tipusok:
+                    - nem és fajta felcserélése
+                    - rész egész viszonyának felcserélése
+                    - egyesszám többesszám helyett
+                    - határozott számnév határozatlan helyett
+            - hasonlat: nem szókép de szerepe hasonlit hozzá
+                - közös vonás alapján párosit két fogalmat
+                - alakjai:
+                    - kötőszóval: mint, akár
+                    - raggal: ként, képpen
+                    - névutóval: gyanánt
+                    - képzószerű utótag: szerű
+        - öszetett szóképek:
+            - allegória: teljes művön végigvitt metafora
+                - pl: Baudelaire - Az albatrosz -> albatrosz = költői sors
+            - szimbólum: többletjelentése csak kikövetkeztethető a szövegből

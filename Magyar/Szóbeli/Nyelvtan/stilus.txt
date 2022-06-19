@@ -96,3 +96,47 @@ A képszerűség stiluseszközei:
             - allegória: teljes művön végigvitt metafora
                 - pl: Baudelaire - Az albatrosz -> albatrosz = költői sors
             - szimbólum: többletjelentése csak kikövetkeztethető a szövegből
+
+Tudományos stilus:
+    - társadalom tudományok, természettudományok, művészetek, filozófia
+    - tudományos művekre jellemző nyelvhasználat
+    - műfajok: esszé; értekezés; tanulmány; előadás; felelet; dolgozat
+    - cél: valóság pontos ábrázolása; megértés
+    - jellemzők:
+        - pontos téma meghatározás
+        - szóhasználat:
+            - irodalmi nyelv
+            - szakszavak
+            - definiciók
+            - képletek
+            - felesleges szavakat kerüli
+        - mondatszerkesztés:
+            - logikusságra, áttekinthetőségre törekszik
+            - többszörösen összetett mondatok
+            - alárendelt mondatok - ok okozat
+            - mellérendelő mondatok - magyarázás
+            - kijelentő mondatok - információt közöl
+            - áttkeinthető szórend
+        - szerkezet:
+            - logikus
+            - utalások: tudományos eredmények; személyek; idézetek; hivatkozások
+            - vizális eszközök: grafikon; ábra; fénykép; táblázat; térkép; digram
+            - betűtipusok
+        - pontos adatok
+    - értekezés vs esszé
+        - értekezés:
+            - téma: tudományos
+            - stilus: tudományos
+            - módszer: szakirodalom; hivatkozások; pontos idézetek
+            - hangnem: objektiv
+            - szerkezet: zárt
+            - modalitás: állitások, kijelentések
+            - cél: meggyőzés
+        - esszé:
+            - téma: tudományos; művészeti
+            - stilus: tudományos; szépművészeti
+            - módszer: szabadabb szerkesztés
+            - hangnem: szubjektiv
+            - szerkezet: nyitottabb
+            - modalitás: változatok mondatfajták; retorikai elemej
+            - cél: meggyőzés; gyönyörködtettés
